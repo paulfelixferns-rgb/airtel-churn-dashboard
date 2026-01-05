@@ -1,0 +1,8 @@
+streamlit==1.38.0
+plotly
+prophet
+shap
+scikit-learn
+pandas
+numpy
+matplotlib

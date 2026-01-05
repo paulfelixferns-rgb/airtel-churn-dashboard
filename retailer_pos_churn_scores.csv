@@ -1,0 +1,1456 @@
+StoreName,Locationnumber,State,BUCode,last_30d_recharge,active_days_30d,prev_30d_recharge,last_7d_recharge,days_since_last_recharge,churn_30d
+3B2 Mohali  Punjab,104,Punjab,115,-423.8,1,0.0,-423.8,0,0
+AB Shetty  Pandeshwar  Karnataka,58,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+AECS Layout Mini Store,21231,Karnataka,153,0.0,1,0.0,0.0,0,1
+AIR CELLULAR,22854,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+AIRTEL MINI  STORE BIJWASAN,21111,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AIRTEL NGS KAMLA NAGAR,20952,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AIRTEL STORE NEW MARKET,22853,Madhya Pradesh,172,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AMALAPURAM OR,20917,AndraPRadesh,151,-211.9,1,0.0,-211.9,0,0
+ANNA NAGAR MADURAI NGS,20818,Tamil Nadu,155,-550.94,1,0.0,-550.94,0,0
+AOR  Amapara  Raipur,907,Chattisgarh,17222,-550.94,1,0.0,-550.94,0,0
+AOR  Arera colony,22807,Madhya Pradesh,172,-211.9,1,0.0,-211.9,0,0
+AOR Adchini  Delhi,948,Delhi,111,-550.94,1,0.0,-550.94,0,0
+AOR Akurdi Pune,895,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+AOR Aligarh,808,UP,11109,-932.36,1,0.0,-932.36,0,0
+AOR Alipore  Kolkata,675,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+AOR Aluva  Kerala,836,Kerala,154,-805.22,1,0.0,-805.22,0,0
+AOR Ambattur OT  Chennai,744,Tamil Nadu,155,-889.98,1,0.0,-889.98,0,0
+AOR Amravati,839,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+AOR Anand BRD  Gujarat,615,Gujrat,171,-593.32,1,0.0,-593.32,0,0
+AOR Anantnag,22865,JK,114,-84.76,1,0.0,-84.76,0,0
+AOR Andheri E - Sakivihar  Mumbai,747,Maharashtra,17327,-2796.7000000000003,1,0.0,-2796.7000000000003,0,0
+AOR Andheri E Station,666,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+AOR Arrah,20943,Bihar,132,-720.46,1,0.0,-720.46,0,0
+AOR Ashiyana  Lucknow,841,UP,11109,-720.46,1,0.0,-720.46,0,0
+AOR Ashok Vihar  Delhi,913,Delhi,111,-805.22,1,0.0,-805.22,0,0
+AOR Ashoknagar  Kolkata,845,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+AOR Aundh  Pune,842,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR BADDI,21006,HP,11202,-169.52,1,0.0,-169.52,0,0
+AOR Badlapur,814,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Baghat,22864,JK,114,-42.38,1,0.0,-42.38,0,0
+AOR Bahadurgarh Store,20935,Haryana,11106,-550.94,1,0.0,-550.94,0,0
+AOR Bajirao Road  Pune,801,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Barmer Store  Rajasthan,748,Rajasthan,176,-678.08,1,0.0,-678.08,0,0
+AOR Barrack Pore  Kolkata,724,West Bengal,135,-296.66,1,0.0,-296.66,0,0
+AOR Berhampur  Odisha,890,Odisha,134,-847.6,1,0.0,-847.6,0,0
+AOR Bhilai,563,Chattisgarh,17222,-550.94,1,0.0,-550.94,0,0
+AOR Bibewadi  Pune,723,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+AOR CA Road  Nagpur,710,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+AOR COCO Jhansi,782,UP,11109,-762.84,1,0.0,-762.84,0,0
+AOR COCO Kidwai Nagar,929,UP,11109,-550.94,1,0.0,-550.94,0,0
+AOR COCO Rudrapur Uttarakhand,809,Uttarakhand,11705,-678.08,1,0.0,-678.08,0,0
+AOR Camp  Pune,888,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+AOR Channi Himmat Jammu,20506,JK,114,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Chhatarpur store,20815,Madhya Pradesh,172,-296.66,1,0.0,-296.66,0,0
+AOR Chinchwad  Pune,720,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+AOR Crystal Tower Store,20813,Madhya Pradesh,172,-381.42,1,0.0,-381.42,0,0
+AOR DEWAS,20809,Madhya Pradesh,172,-339.04,1,0.0,-339.04,0,0
+AOR DHAR ROAD UDHAMPUR,20847,JK,114,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR DHARAMSHALA,20772,HP,11202,-211.9,1,0.0,-211.9,0,0
+AOR DIBRUGARH Assam,788,Assam,131,-211.9,1,0.0,-211.9,0,0
+AOR DP Road  Pune,933,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+AOR Dadabari Kota,768,Rajasthan,176,-211.9,1,0.0,-211.9,0,0
+AOR Dharampura road  Patiala,655,Punjab,115,-635.7,1,0.0,-635.7,0,0
+AOR Dover Lane  Kolkata,926,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+AOR Dugri  Ludhiana,693,Punjab,115,-550.94,1,0.0,-550.94,0,0
+AOR EAST MARDPALLY,20667,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+AOR Edappally  Kerala,711,Kerala,154,-466.18,1,0.0,-466.18,0,0
+AOR Ekkattuthangal  Chennai,737,Tamil Nadu,155,-423.8,1,0.0,-423.8,0,0
+AOR Electronic City  Bangalore,739,Karnataka,153,-889.98,1,0.0,-889.98,0,0
+AOR FC Road  Pune,894,Maharashtra,17327,-9110.18,1,0.0,-9110.18,0,0
+AOR Freeganj,20773,Madhya Pradesh,172,-296.66,1,0.0,-296.66,0,0
+AOR GKP Bank Road  Gorakhpur,773,UP,11109,-1229.02,1,0.0,-1229.02,0,0
+AOR GUNA,20810,Madhya Pradesh,172,-211.9,1,0.0,-211.9,0,0
+AOR Gandhinagar  Gujarat,713,Gujrat,171,-635.7,1,0.0,-635.7,0,0
+AOR Ganesh Chandra Avenue  Kolkata,709,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR Garkheda  Aurangabad,633,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+AOR Gaya,565,Bihar,132,-1356.16,1,0.0,-1356.16,0,0
+AOR Gorakhpur Store,21008,Madhya Pradesh,172,-339.04,1,0.0,-339.04,0,0
+AOR HBR Layout store  Bangalore,770,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+AOR Hadapsar  Pune,602,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+AOR Hajipur,20990,Bihar,132,-889.98,1,0.0,-889.98,0,0
+AOR Hambra Store,20991,Punjab,115,-423.8,1,0.0,-423.8,0,0
+AOR Hissar,662,Haryana,11106,-1271.4,1,0.0,-1271.4,0,0
+AOR Imphal  Manipur,833,Manipur,13314,-84.76,1,0.0,-84.76,0,0
+AOR Indirapuram  Ghaziabad,670,UP,11109,-678.08,1,0.0,-678.08,0,0
+AOR Indra Complex,20812,Chattisgarh,17222,-339.04,1,0.0,-339.04,0,0
+AOR Indrapuri,20774,Madhya Pradesh,172,-381.42,1,0.0,-381.42,0,0
+AOR JP Chowk  Jammu,740,JK,114,-296.66,1,0.0,-296.66,0,0
+AOR Janpath  Odisha,827,Odisha,134,-423.8,1,0.0,-423.8,0,0
+AOR Jorhat  Assam,772,Assam,131,-84.76,1,0.0,-84.76,0,0
+AOR KATHUA,20676,JK,114,-84.76,1,0.0,-84.76,0,0
+AOR KESAVADASAPURAM,816,Kerala,154,-296.66,1,0.0,-296.66,0,0
+AOR KHANNA STORE,20833,Punjab,115,-169.52,1,0.0,-169.52,0,0
+AOR KIITCollege Square Bhubaneswar,787,Odisha,134,-423.8,1,0.0,-423.8,0,0
+AOR Kacheripady  Kerala,902,Kerala,154,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Kachiguda,20695,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+AOR Kalwar Road  Jaipur,771,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+AOR Kammanahalli-2,821,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+AOR Karol Bagh,20645,Delhi,111,-466.18,1,0.0,-466.18,0,0
+AOR Katra,20677,JK,114,-42.38,1,0.0,-42.38,0,0
+AOR Kharagpur NGS,20512,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+AOR Kolar Road  Bhopal,735,Madhya Pradesh,172,-381.42,1,0.0,-381.42,0,0
+AOR Kolhapur  Mumbai,610,Maharashtra,24127,-2542.42,1,0.0,-2542.42,0,0
+AOR Koper Khairne  Mumbai,646,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+AOR Kumaran Road  Tiruppur,875,Tamil Nadu,155,-805.22,1,0.0,-805.22,0,0
+AOR Laketown  Kolkata,690,West Bengal,135,-339.04,1,0.0,-339.04,0,0
+AOR Laxmi Nagar  Delhi,924,Delhi,111,-635.7,1,0.0,-635.7,0,0
+AOR MALAKPET Next Gen Hyderabad,903,Telangana,15136,-678.08,1,0.0,-678.08,0,0
+AOR MANDI GOBINDGARH,20918,Punjab,115,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR MG Road  Kerala,805,Kerala,154,-2584.8,1,0.0,-2584.8,0,0
+AOR MLB Road Store,20814,Madhya Pradesh,172,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Mahatma Nagar  Nasik,945,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Mazgaon,20775,Maharashtra,17327,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+AOR Mini Store Keshav Puram,21007,Delhi,111,-84.76,1,0.0,-84.76,0,0
+AOR Modi Road  Bangalore,682,Karnataka,153,-2457.6600000000003,1,0.0,-2457.6600000000003,0,0
+AOR Mohammed Ali  Mumbai,860,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Mukherjee Nagar  GTB Nagar  Delhi,917,Delhi,111,-1101.88,1,0.0,-1101.88,0,0
+AOR Mumbai Central,638,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+AOR Mumbai Naka  Nashik,753,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+AOR NGS Adyar  Chennai,946,Tamil Nadu,155,-423.8,1,0.0,-423.8,0,0
+AOR Nellore,734,AndraPRadesh,151,-805.22,1,0.0,-805.22,0,0
+AOR Nellore NGS,20885,AndraPRadesh,151,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Next Gen Gandhi Path,898,Rajasthan,176,-720.46,1,0.0,-720.46,0,0
+AOR Nirala Bazaar  Aurangabad,943,Maharashtra,17327,-762.84,1,0.0,-762.84,0,0
+AOR Ottappalam,20830,Kerala,154,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR PN Road  Tiruppur,872,Tamil Nadu,155,-889.98,1,0.0,-889.98,0,0
+AOR Pali  Jaipur,784,Rajasthan,176,-550.94,1,0.0,-550.94,0,0
+AOR Pallikulam Thrissur  Kerala.,806,Kerala,154,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Pathankot  Pathankot,789,Punjab,115,-889.98,1,0.0,-889.98,0,0
+AOR Patna City,20968,Bihar,132,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Raipur,600,Chattisgarh,17222,-974.74,1,0.0,-974.74,0,0
+AOR Rajauri,20959,JK,114,-84.76,1,0.0,-84.76,0,0
+AOR Rama mandi,20972,Punjab,115,-84.76,1,0.0,-84.76,0,0
+AOR Ranjit Avenue  Amritsar,727,Punjab,115,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Rink Mall  Darjeeling,760,West Bengal,135,-296.66,1,0.0,-296.66,0,0
+AOR Rohtak,645,Haryana,11106,-1356.16,1,0.0,-1356.16,0,0
+AOR SECTOR 15  GURGAON,923,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR SHIV NAGAR UDHAMPUR,20926,JK,114,-42.38,1,0.0,-42.38,0,0
+AOR STORE BARNALA,20897,Punjab,115,-550.94,1,0.0,-550.94,0,0
+AOR STORE Faridkot PB,20939,Punjab,115,-42.38,1,0.0,-42.38,0,0
+AOR STORE GURDASPUR,20989,Punjab,115,-211.9,1,0.0,-211.9,0,0
+AOR STORE KARNAL HARYANA,20783,Haryana,11106,-974.74,1,0.0,-974.74,0,0
+AOR STORE MUKTSAR,20895,Punjab,115,-84.76,1,0.0,-84.76,0,0
+AOR STORE Sirsa HARYANA,20785,Haryana,11106,-1059.5,1,0.0,-1059.5,0,0
+AOR SUNDER NAGAR,21005,Punjab,115,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR SV Road Andheri West  Mumbai,697,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+AOR Sagar Store,20961,Madhya Pradesh,172,-169.52,1,0.0,-169.52,0,0
+AOR Sanjouli Shimla,581,HP,11202,-423.8,1,0.0,-423.8,0,0
+AOR Satna Store,20957,Madhya Pradesh,172,-466.18,1,0.0,-466.18,0,0
+AOR Savedi   Ahmed nagar,764,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+AOR Saya Zion,11824,UP,11109,-423.8,1,0.0,-423.8,0,0
+AOR Sec10  Dwarka,914,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR Sector 15 Chandigarh,575,Chandigarh,11504,-550.94,1,0.0,-550.94,0,0
+AOR Sector 4 Rohini DL319,20916,Delhi,111,-3093.3600000000006,1,0.0,-3093.3600000000006,0,0
+AOR Sector 46  Chandigarh,696,Chandigarh,11504,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Selayur Chennai,781,Tamil Nadu,155,-678.08,1,0.0,-678.08,0,0
+AOR Shahibaug  Ahmedabad,732,Gujrat,171,-296.66,1,0.0,-296.66,0,0
+AOR Shivranjani  Ahemdabad,746,Gujrat,171,-296.66,1,0.0,-296.66,0,0
+AOR Shriganganagar  Rajasthan,702,Rajasthan,176,-423.8,1,0.0,-423.8,0,0
+AOR Silchar  Assam,798,Assam,131,-635.7,1,0.0,-635.7,0,0
+AOR Singhad  Pune,750,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+AOR Solan,761,HP,11202,-169.52,1,0.0,-169.52,0,0
+AOR Store  Phagwara,725,Punjab,115,-635.7,1,0.0,-635.7,0,0
+AOR Store Ambala City Haryana,21311,Haryana,11106,-84.76,1,0.0,-84.76,0,0
+AOR Store Batala,20919,Punjab,115,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Store Bhiwani HR,21003,Haryana,11106,-593.32,1,0.0,-593.32,0,0
+AOR Store Hamipur HP,22855,HP,11202,-42.38,1,0.0,-42.38,0,0
+AOR Store Jamalpur PB,20947,Punjab,115,-2499.2200000000003,1,0.0,-2499.2200000000003,0,0
+AOR Store Jhajjar,22911,Haryana,11106,-169.52,1,0.0,-169.52,0,0
+AOR Store Kharar PB,20948,Punjab,115,-593.32,1,0.0,-593.32,0,0
+AOR Store Kurukshetra,754,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR Store MANSA PB,22830,Punjab,115,-339.04,1,0.0,-339.04,0,0
+AOR Store Malout PB,22898,Punjab,115,-42.38,1,0.0,-42.38,0,0
+AOR Store Nabha PB,20937,Punjab,115,-84.76,1,0.0,-84.76,0,0
+AOR Store Rajpura PB,20922,Punjab,115,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AOR Store Sodal Road,20894,Punjab,115,-593.32,1,0.0,-593.32,0,0
+AOR Store Yamunanagar,755,Haryana,11106,-466.18,1,0.0,-466.18,0,0
+AOR Store putligarh PB,20950,Punjab,115,-296.66,1,0.0,-296.66,0,0
+AOR Store tripuri patiala,20923,Punjab,115,-169.52,1,0.0,-169.52,0,0
+AOR TARN TARAN,21078,Punjab,115,-211.9,1,0.0,-211.9,0,0
+AOR TC Palya Banglore,843,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+AOR Tansen_nagar,20869,Madhya Pradesh,172,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+AOR Thoraipakkam  Chennai,779,Tamil Nadu,155,-762.84,1,0.0,-762.84,0,0
+AOR Tirunelveli,840,Tamil Nadu,155,-1271.4,1,0.0,-1271.4,0,0
+AOR Tirupathi,745,AndraPRadesh,151,-762.84,1,0.0,-762.84,0,0
+AOR Untkhana  Nagpur,752,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+AOR VIRAR,815,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+AOR Vadapalani  Chennai,769,Tamil Nadu,155,-889.98,1,0.0,-889.98,0,0
+AOR Vidisha Store,20956,Madhya Pradesh,172,-84.76,1,0.0,-84.76,0,0
+AOR Viman Nagar  Pune,776,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+AOR Visharantwadi Pune,832,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+AOR Yousufguda,20898,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+AOR samba,20675,JK,114,-84.76,1,0.0,-84.76,0,0
+AOR-Dwarka Sec-7,20485,Delhi,111,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+AORSector 37 Chandigarh,688,Chandigarh,11504,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+ASIF Nagar OR,20758,Telangana,15136,-678.08,1,0.0,-678.08,0,0
+Abhilasha Cross Roads,21109,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Abids  Hyderabad  Telangana,78,Telangana,15136,-932.36,1,0.0,-932.36,0,0
+Ace Traders JK,21439,JK,114,-42.38,1,0.0,-42.38,0,0
+Adarsh nagar Aor,20910,Delhi,111,-381.42,1,0.0,-381.42,0,0
+Adarsh park,21478,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Adyar Chennai,513,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Agrahara NGS  Mysore,949,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+Airoli,20621,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Airoli 2 AOR,20905,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Airtel Mini Dhakoli,21247,Punjab,115,0.0,1,0.0,0.0,0,1
+Airtel Mini Store Jawahar Colony Faridabad,21030,Haryana,11106,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Airtel Mini store Satya Niketan,21358,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Mini store sector 15 noida,21272,UP,11109,-550.94,1,0.0,-550.94,0,0
+Airtel NGS  Green Field Faridabad,20872,Haryana,11106,-211.9,1,0.0,-211.9,0,0
+Airtel NGS  Jagat Farm,22091,UP,11109,-339.04,1,0.0,-339.04,0,0
+Airtel NGS  Sector 10 Faridabad,20793,Haryana,11106,-2542.42,1,0.0,-2542.42,0,0
+Airtel NGS Bhikaji Cama Place,22840,Delhi,111,-84.76,1,0.0,-84.76,0,0
+Airtel NGS Firozabad,20953,UP,11109,-593.32,1,0.0,-593.32,0,0
+Airtel NGS GK 1 M Block,22851,Delhi,111,-42.38,1,0.0,-42.38,0,0
+Airtel NGS Gole Market,22871,Delhi,111,-7288.220000000001,1,0.0,-7288.220000000001,0,0
+Airtel NGS Jail Road,21451,Delhi,111,-1059.5,1,0.0,-1059.5,0,0
+Airtel NGS NIT 5 Faridabad,20829,Haryana,11106,-84.76,1,0.0,-84.76,0,0
+Airtel NGS Nangloi,22872,Delhi,111,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Airtel NGS Sec 79 Faridabad,20873,Haryana,11106,-466.18,1,0.0,-466.18,0,0
+Airtel NGS Sector 75 Noida,21902,UP,11109,-296.66,1,0.0,-296.66,0,0
+Airtel NGS Siddharth Vihar-DL461,22823,UP,11109,-42.38,1,0.0,-42.38,0,0
+Airtel NGS Tulip Sector 69 GGN,22769,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel NSG  Coco Nawada,20914,Delhi,111,-889.98,1,0.0,-889.98,0,0
+Airtel OR Rampur,20945,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Sapna Sangeeta Store,22387,Madhya Pradesh,172,-42.38,1,0.0,-42.38,0,0
+Airtel Store  Mahipalpur,20970,Delhi,111,-1059.5,1,0.0,-1059.5,0,0
+Airtel Store Adabari,21124,Assam,131,-211.9,1,0.0,-211.9,0,0
+Airtel Store Adhartal Store,21053,Madhya Pradesh,172,-84.76,1,0.0,-84.76,0,0
+Airtel Store Agrasen Nagar,21056,Madhya Pradesh,172,-211.9,1,0.0,-211.9,0,0
+Airtel Store Awadhpuri Store,21097,Madhya Pradesh,172,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Store Bhanpuri,21064,Chattisgarh,17222,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Store BhataGaon Store,21058,Chattisgarh,17222,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Airtel Store Deepak Nagar,21059,Chattisgarh,17222,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Store Dilshad Colony,20930,Delhi,111,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Airtel Store Gulmohar Store,21063,Madhya Pradesh,172,-84.76,1,0.0,-84.76,0,0
+Airtel Store Gurudwara Road,20958,Haryana,11106,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Airtel Store Karond Store,21052,Madhya Pradesh,172,-42.38,1,0.0,-42.38,0,0
+Airtel Store Katara,21102,Madhya Pradesh,172,-84.76,1,0.0,-84.76,0,0
+Airtel Store Lalghati,22765,Madhya Pradesh,172,-550.94,1,0.0,-550.94,0,0
+Airtel Store MTH Compound,22766,Madhya Pradesh,172,-296.66,1,0.0,-296.66,0,0
+Airtel Store Minal,21098,Madhya Pradesh,172,-169.52,1,0.0,-169.52,0,0
+Airtel Store Morar Store,21062,Madhya Pradesh,172,-381.42,1,0.0,-381.42,0,0
+Airtel Store Nayabazar Store,21054,Madhya Pradesh,172,-169.52,1,0.0,-169.52,0,0
+Airtel Store Nehru Nagar,21100,Chattisgarh,17222,-42.38,1,0.0,-42.38,0,0
+Airtel Store Nehru Place,20646,Delhi,111,-2796.7000000000003,1,0.0,-2796.7000000000003,0,0
+Airtel Store Noida Sec 25,20595,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Airtel Store Pardesipura,21051,Madhya Pradesh,172,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Airtel Store Ratlam,22767,Madhya Pradesh,172,-296.66,1,0.0,-296.66,0,0
+Airtel Store Rewa,22768,Madhya Pradesh,172,-635.7,1,0.0,-635.7,0,0
+Airtel Store Santacruzmini,21413,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Airtel Store Sarkanda Bilaspur,22782,Chattisgarh,17222,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Store Silicon city,21065,Madhya Pradesh,172,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Airtel Store Sixmile,21126,Assam,131,-169.52,1,0.0,-169.52,0,0
+Airtel Store Smritinagar,21055,Chattisgarh,17222,-42.38,1,0.0,-42.38,0,0
+Airtel Store TalojaMiniStore,21409,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Airtel Store TelibandhaStore,21057,Chattisgarh,17222,-211.9,1,0.0,-211.9,0,0
+Airtel Store Uttam Nagar,20784,Delhi,111,-381.42,1,0.0,-381.42,0,0
+Airtel Store VIP Road,21127,Assam,131,-84.76,1,0.0,-84.76,0,0
+Airtel Store Vaishali,414,UP,11109,-1101.88,1,0.0,-1101.88,0,0
+Airtel Store Vijay Nagar IND,22386,Madhya Pradesh,172,-339.04,1,0.0,-339.04,0,0
+Airtel Store Vijay Nagar Jabalpur,22857,Madhya Pradesh,172,-423.8,1,0.0,-423.8,0,0
+Airtel Store Yamuna Vihar,20721,Delhi,111,-466.18,1,0.0,-466.18,0,0
+Airtel StoreFaridabad 29,413,Haryana,11106,-423.8,1,0.0,-423.8,0,0
+Airtel store astha plaza katni,22858,Madhya Pradesh,172,-42.38,1,0.0,-42.38,0,0
+Aizawl AOR,21023,Mizoram,13315,-169.52,1,0.0,-169.52,0,0
+Ajmer Rajasthan,509,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+Akshaya Nagar DLF mini,21289,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Alaknanda New Delhi,560,Delhi,111,-805.22,1,0.0,-805.22,0,0
+Alam Bagh Lucknow,170,UP,11109,-974.74,1,0.0,-974.74,0,0
+Alfa  Greater Noida,238,UP,11109,-932.36,1,0.0,-932.36,0,0
+Alleppey OR,20651,Kerala,154,-550.94,1,0.0,-550.94,0,0
+Alwar  Rajasthan,181,Rajasthan,176,-1186.64,1,0.0,-1186.64,0,0
+Ambala City  Haryana,381,Haryana,11106,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Ambattur  Chennai,89,Tamil Nadu,155,-847.6,1,0.0,-847.6,0,0
+Ambavadi Bajar,441,Gujrat,171,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+Ambernath Store,21001,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Ambition MUM,21561,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Ambur NGS,22753,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Ameer petNext Gen Store,838,Telangana,15136,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Ameerpet  Hyderabad  Telangana,13,Telangana,15136,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Ananthpur AOR,20711,AndraPRadesh,151,-466.18,1,0.0,-466.18,0,0
+Andaman AOR,20969,West Bengal,135,-1356.16,1,0.0,-1356.16,0,0
+Andheri E-loop  Mumbai,224,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Andheri West,431,Maharashtra,17327,-9191.66,1,0.0,-9191.66,0,0
+Andheri west 2,20539,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Andhrhalli,21427,Karnataka,153,-296.66,1,0.0,-296.66,0,0
+Anna Nagar  Chennai,120,Tamil Nadu,155,-2923.84,1,0.0,-2923.84,0,0
+Anna Nagar k4 Digital store  Chennai,928,Tamil Nadu,155,-762.84,1,0.0,-762.84,0,0
+Aor Akola store,20538,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Aor Anishabad Patna,21016,Bihar,132,-635.7,1,0.0,-635.7,0,0
+Aor Asansol,811,West Bengal,135,-466.18,1,0.0,-466.18,0,0
+Aor Bandra West,20524,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Aor Burari,20749,Delhi,111,-889.98,1,0.0,-889.98,0,0
+Aor Calicut  Kozhikode,869,Kerala,154,-339.0400000000002,1,0.0,-339.0400000000002,0,0
+Aor Eluru,20882,AndraPRadesh,151,-42.38,1,0.0,-42.38,0,0
+Aor Haldia,864,West Bengal,135,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+Aor Hamidia Road,22869,Madhya Pradesh,172,-169.52,1,0.0,-169.52,0,0
+Aor Jind,20863,Haryana,11106,-211.9,1,0.0,-211.9,0,0
+Aor KOTTARA,21019,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Aor Kaithal,20942,Haryana,11106,-423.8,1,0.0,-423.8,0,0
+Aor Karve Road  Pune,692,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Aor Kullu,20827,HP,11202,-42.38,1,0.0,-42.38,0,0
+Aor Mahabubnagar,22924,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Aor Mallapur,20883,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+Aor NFC  Delhi,883,Delhi,111,-1229.02,1,0.0,-1229.02,0,0
+Aor NGS Nadiad,20661,Gujrat,171,-423.8,1,0.0,-423.8,0,0
+Aor Narela,20750,Delhi,111,-932.36,1,0.0,-932.36,0,0
+Aor Owners Pride Banjara Hills  Hyderabad,731,Telangana,15136,-423.8,1,0.0,-423.8,0,0
+Aor Park Street  Kolkata,716,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+Aor Rajendra Nagar,20925,UP,11109,-381.42,1,0.0,-381.42,0,0
+Aor Sangrur,20996,Punjab,115,-84.76,1,0.0,-84.76,0,0
+Aor Sarita Vihar  Delhi,878,Delhi,111,-889.98,1,0.0,-889.98,0,0
+Aor Store Abohor,20984,Punjab,115,-296.66,1,0.0,-296.66,0,0
+Aor Store UNA HP,22149,HP,11202,-84.76,1,0.0,-84.76,0,0
+Aor Tezpur,813,Assam,131,-381.42,1,0.0,-381.42,0,0
+Aor Thane West,20525,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Aor Tinsukia  Assam,810,Assam,131,-339.04,1,0.0,-339.04,0,0
+Aor store Kapurthala,21103,Punjab,115,-339.04,1,0.0,-339.04,0,0
+Aor suryapet,20884,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+Arcade  C-Scheme  Jaipur,222,Rajasthan,176,-381.42,1,0.0,-381.42,0,0
+Arhaan Telecom,21557,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Arumbakkam Chennai,590,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Asansol 2 AOR,20964,West Bengal,135,-381.42,1,0.0,-381.42,0,0
+Ashok Nagar Chennai,163,Tamil Nadu,155,-678.08,1,0.0,-678.08,0,0
+Ashwini Complex Raichur Karnataka,118,Karnataka,153,-2034.2400000000002,1,0.0,-2034.2400000000002,0,0
+Attapur  Hyderabad,310,Telangana,15136,-1186.64,1,0.0,-1186.64,0,0
+Aurangabad  MH,197,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Avadi  Chennai,500,Tamil Nadu,155,-4068.1000000000004,1,0.0,-4068.1000000000004,0,0
+Avinashi  Coimbatore  TN,142,Tamil Nadu,155,-1440.92,1,0.0,-1440.92,0,0
+Ayanvaram  Chennai,328,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+Ayyappa Nagar  Bangalore,887,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+B20 Ghumar Mandi  Ludhiana,756,Punjab,115,-381.42,1,0.0,-381.42,0,0
+BAHRAICH OR,20691,UP,11109,-296.66,1,0.0,-296.66,0,0
+BAPU BAZAR UDAIPUR,20719,Rajasthan,176,-678.08,1,0.0,-678.08,0,0
+BELGAUM OR3,20574,Karnataka,153,-3134.92,1,0.0,-3134.92,0,0
+BSK 3rd Stage OR,20577,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+BT Road  Kolkata,573,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+Badlapur Store,20999,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+Bagalur OR,20924,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+Bagalur Road NGS,22877,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Baguihati Jangra Mini,21201,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Bahuplaza JK,20505,JK,114,-211.9,1,0.0,-211.9,0,0
+Bakshi Nagar  Jammu,620,JK,114,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Balaji Complex  Rajkot,578,Gujrat,171,-381.42,1,0.0,-381.42,0,0
+Bally Mini,21404,West Bengal,135,0.0,1,0.0,0.0,0,1
+Banaswadi NGS,22825,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+Bandra W Mumbai,607,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Baner Store  Pune,683,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Banjarahills OR,20600,Telangana,15136,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Bank More  Dhanbad,110,Jharkhand,13220,-339.04,1,0.0,-339.04,0,0
+Bannerghatta  Bangalore  KA,315,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Bapunagar AOR,20526,Gujrat,171,-847.6,1,0.0,-847.6,0,0
+Baramati OR,21018,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Barasat  Kolkata  WB,207,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+Bareilly  UP,258,UP,11109,-1101.88,1,0.0,-1101.88,0,0
+Basaveshwara Nagara OR,20588,Karnataka,153,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Basheerbagh OR,20755,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Beachstation NGS,20527,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+BeckBagan Mini,21460,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+Beedbypass OR,21214,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Begumpet Hyderabad Telangana,59,Telangana,15136,-550.94,1,0.0,-550.94,0,0
+Begumpul  Meerut  UP,101,UP,11109,-381.42,1,0.0,-381.42,0,0
+Begur Main Road,21566,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Begusarai NGS,22384,Bihar,132,-296.66,1,0.0,-296.66,0,0
+Beigh Enterprises JK,21490,JK,114,0.0,1,0.0,0.0,0,1
+Belapur  Mumbai,321,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Belgaum-II  Tilakwadi  KA,169,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+Bellary  Karnataka,119,Karnataka,153,-1059.5,1,0.0,-1059.5,0,0
+Beltala  Guwahati,336,Assam,131,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Berhampur AOR,20998,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Bhagalpur  Bihar,260,Bihar,132,-1356.16,1,0.0,-1356.16,0,0
+Bhagwati communication,21430,JK,114,-84.76,1,0.0,-84.76,0,0
+Bhandup Store OR,20642,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Bharathiar Road,593,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Bharti Airtel Ltd Chevayoor Mini Store,21483,Kerala,154,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Bharti Airtel Ltd Olavakkode Mini Store,21939,Kerala,154,-84.76,1,0.0,-84.76,0,0
+Bharti House  Ahmedabad,124,Gujrat,171,-2627.1800000000003,1,0.0,-2627.1800000000003,0,0
+Bharti Vidyapeeth Store,22777,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Bhatinda Mall Punjab,488,Punjab,115,-1144.26,1,0.0,-1144.26,0,0
+Bhavani Puram AOR,20617,AndraPRadesh,151,-381.42,1,0.0,-381.42,0,0
+Bhavnagar AOR,20531,Gujrat,171,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Bhayander East MUM,20673,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Bhayander West,20626,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Bhilwara AOR  Rajasthan,660,Rajasthan,176,-296.66,1,0.0,-296.66,0,0
+Bhiwadi OR,20718,Rajasthan,176,-84.76,1,0.0,-84.76,0,0
+Bhiwandi OR,20659,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Bhosari OR,21211,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Bidar  Karnataka,171,Karnataka,153,-1864.72,1,0.0,-1864.72,0,0
+Bijapur  Karnataka,155,Karnataka,153,-932.36,1,0.0,-932.36,0,0
+Bikaner Rajasthan,538,Rajasthan,176,-296.66,1,0.0,-296.66,0,0
+Billimora OR,20679,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Birati Mini,21418,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Bistupur  Jamshedpur  Jharkhand,138,Jharkhand,13220,-932.36,1,0.0,-932.36,0,0
+Boduppal Mini,21374,Telangana,15136,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Bokaro Mall,345,Jharkhand,13220,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Bomanahalli OR,20576,Karnataka,153,-339.04,1,0.0,-339.04,0,0
+Bondel Road Mini,21457,West Bengal,135,0.0,1,0.0,0.0,0,1
+Bongaigaon AOR,22836,Assam,131,-169.52,1,0.0,-169.52,0,0
+Boring Road  Patna,61,Bihar,132,-847.6,1,0.0,-847.6,0,0
+Borivali East,20860,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Borivali MUM,20548,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Borkheda Road Kota,21309,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+Botanical Garden  Hyderabad,733,Telangana,15136,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+BowenPally  Hyderabad,209,Telangana,15136,-381.42,1,0.0,-381.42,0,0
+Bowenpally 2 AOR,20714,Telangana,15136,-84.76,1,0.0,-84.76,0,0
+Brain Booster MUM,21559,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Broadway NGS,11598,Tamil Nadu,155,-423.8,1,0.0,-423.8,0,0
+Brookefield  Bangalore,385,Karnataka,153,-2966.2200000000003,1,0.0,-2966.2200000000003,0,0
+BudgBudge Mini,21455,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Bunts Hostel  Mangalore-3  KA,288,Karnataka,153,-2584.8,1,0.0,-2584.8,0,0
+Burdwan AOR,20541,West Bengal,135,-296.66,1,0.0,-296.66,0,0
+CBE 100ft  Coimbatore,719,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+CG Road  Ahmedabad,24,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+CHANDRA LAYOUT OR,20579,Karnataka,153,-720.46,1,0.0,-720.46,0,0
+CHEMBUR EAST,20913,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+CHITRADURGA  NGS,22771,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+CIT Road AOR,20936,West Bengal,135,-762.84,1,0.0,-762.84,0,0
+CLEMENT TOWN DEHARDUN,22829,Uttarakhand,11705,-339.04,1,0.0,-339.04,0,0
+COCA COLA KNP,20846,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+COCO 60 Feet OR UE,21134,UP,11109,-42.38,1,0.0,-42.38,0,0
+COCO ARJUNGANJ,21257,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+COCO ARYA NAGAR,20770,UP,11109,-84.76,1,0.0,-84.76,0,0
+COCO AZAD NAGAR,21371,UP,11109,-42.38,1,0.0,-42.38,0,0
+COCO Agra Fatehabad,940,UP,11109,-211.9,1,0.0,-211.9,0,0
+COCO BBD,21217,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+COCO Bhelupur  Varanasi,700,UP,11109,-635.7,1,0.0,-635.7,0,0
+COCO Bulandshahr,20907,UP,11109,-1059.5,1,0.0,-1059.5,0,0
+COCO Chowk  Lucknow,762,UP,11109,-1186.64,1,0.0,-1186.64,0,0
+COCO Dehradun  Uttarakhand,911,Uttarakhand,11705,-381.42,1,0.0,-381.42,0,0
+COCO Farrukhabad,22863,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+COCO Gandhi Gram,21372,UP,11109,-84.76,1,0.0,-84.76,0,0
+COCO Inderpasth Tower  Indore,930,Madhya Pradesh,172,-593.32,1,0.0,-593.32,0,0
+COCO KATHAUTA,21373,UP,11109,-84.76,1,0.0,-84.76,0,0
+COCO Kalyani Devi,21327,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+COCO Kalyanpur,22859,UP,11109,-169.52,1,0.0,-169.52,0,0
+COCO Katra,21328,UP,11109,-84.76,1,0.0,-84.76,0,0
+COCO MIRZAPUR,20769,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+COCO Mathura,858,UP,11109,-381.42,1,0.0,-381.42,0,0
+COCO Medical Road,21346,UP,11109,-211.9,1,0.0,-211.9,0,0
+COCO Meerut,910,UP,11109,-720.46,1,0.0,-720.46,0,0
+COCO Munshipulia,20803,UP,11109,-466.18,1,0.0,-466.18,0,0
+COCO NAKA,21259,UP,11109,-211.9,1,0.0,-211.9,0,0
+COCO ORDALY BAZAR,20892,UP,11109,-169.52,1,0.0,-169.52,0,0
+COCO RAJAJIPURAM,20629,UP,11109,-466.18,1,0.0,-466.18,0,0
+COCO RATHYATRA VNS,21014,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+COCO Roorkee,20630,Uttarakhand,11705,-339.04,1,0.0,-339.04,0,0
+COCO SADAR CANTT LKO,21004,UP,11109,-296.66,1,0.0,-296.66,0,0
+COCO SGPGI,21118,UP,11109,-381.42,1,0.0,-381.42,0,0
+COCO SULEMSARAI,21370,UP,11109,-169.52,1,0.0,-169.52,0,0
+COCO UNNAO,20954,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+COCO VIKAS NAGAR,21260,UP,11109,-169.52,1,0.0,-169.52,0,0
+COCO-Pallav Puram,20594,UP,11109,-211.9,1,0.0,-211.9,0,0
+CP  Delhi,95,Delhi,111,-974.74,1,0.0,-974.74,0,0
+CP Ramaswami Road  Alwarpet  Chennai,383,Tamil Nadu,155,-5339.120000000001,1,0.0,-5339.120000000001,0,0
+CR Park  Delhi,399,Delhi,111,-339.04,1,0.0,-339.04,0,0
+CST Station NGS,22907,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Camac street Mini,21458,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Central Market Punjabi Bagh  Delhi,437,Delhi,111,-635.7,1,0.0,-635.7,0,0
+Chaitanyapuri  Hyderabad,435,Telangana,15136,-1144.26,1,0.0,-1144.26,0,0
+Chakrata Road  Dehradun,332,Uttarakhand,11705,-932.36,1,0.0,-932.36,0,0
+Chakripuram OR,20780,Telangana,15136,-805.22,1,0.0,-805.22,0,0
+Chalakudy NGS Airtel Store,21253,Kerala,154,-42.38,1,0.0,-42.38,0,0
+Chamrajpet NGS,22800,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+Chandan Nagar AOR,21419,West Bengal,135,0.0,1,0.0,0.0,0,1
+Chandanagar  Telangana,144,Telangana,15136,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Chander Nagar,21033,UP,11109,-169.52,1,0.0,-169.52,0,0
+Chandivali Powai,22845,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Chandkheda AOR Ahmedabad,687,Gujrat,171,-805.22,1,0.0,-805.22,0,0
+Chandrapur Store,20938,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Channapatna OR,20693,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+Chathram Bus Stand  Trichy  TN,217,Tamil Nadu,155,-3050.9800000000005,1,0.0,-3050.9800000000005,0,0
+Chattarpur,20982,Delhi,111,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Chaukhandi  Baroda,423,Gujrat,171,-381.42,1,0.0,-381.42,0,0
+Chembur  Mumbai,306,Maharashtra,17327,-466.18,1,0.0,-466.18,0,0
+Chembur stn MUM,20669,Maharashtra,17327,-720.46,1,0.0,-720.46,0,0
+Chengalpattu NGS,22781,Tamil Nadu,155,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Cherthala NGS,20650,Kerala,154,-296.66,1,0.0,-296.66,0,0
+Chidambaram AOR,20951,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Chikali OR,21209,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Chikkamagalur Store,21898,Karnataka,153,-296.66,1,0.0,-296.66,0,0
+Chinar Park   Kolkata,412,West Bengal,135,-423.8,1,0.0,-423.8,0,0
+Chinna Mathur Mini AOR,21047,Tamil Nadu,155,-296.66,1,0.0,-296.66,0,0
+Chinsurah Mini,21320,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Chintal  Hyderbad,180,Telangana,15136,-635.7,1,0.0,-635.7,0,0
+Chittoor Aor,20857,AndraPRadesh,151,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Chopasani  Jodhpur,292,Rajasthan,176,-720.46,1,0.0,-720.46,0,0
+Chowk  Allahabad,266,UP,11109,-169.52,1,0.0,-169.52,0,0
+Chrompet AOR Tamilnadu,822,Tamil Nadu,155,-593.32,1,0.0,-593.32,0,0
+City Center  Gwalior,333,Madhya Pradesh,172,-466.18,1,0.0,-466.18,0,0
+City Center  Kolkata,14,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+City Center Agartala,678,Tripura,13316,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+City Plaza  Durgapur  West Bengal,84,West Bengal,135,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Civil Lines  Allahabad,173,UP,11109,-423.8,1,0.0,-423.8,0,0
+Coco Engineering College Chauraha,20688,UP,11109,-593.32,1,0.0,-593.32,0,0
+College Road  Nasik,249,Maharashtra,17327,-2372.0800000000004,1,0.0,-2372.0800000000004,0,0
+Colony Bazar,21391,Assam,131,-42.38,1,0.0,-42.38,0,0
+Crossing Republic  Ghaziabad,297,UP,11109,-339.04,1,0.0,-339.04,0,0
+Cuddalore NGS,22764,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Cuttack  Odisha,742,Odisha,134,-1271.4,1,0.0,-1271.4,0,0
+Cuttack CDA 6,20992,Odisha,134,-381.42,1,0.0,-381.42,0,0
+DANKUNI -MINI AOR,21929,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+DB Road  Coimbatore  TN,64,Tamil Nadu,155,-550.94,1,0.0,-550.94,0,0
+DEVICHOWK OR,20764,AndraPRadesh,151,-423.8,1,0.0,-423.8,0,0
+DLF Galleria  Gurgaon,235,Haryana,24106,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+DLF NGS,21941,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+DR Urs Road  Mysore2  KA,247,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Dadar Kabutar khana,22791,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Dahisar East MUM,20647,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Dahisar West,20708,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Darbhanga Lalbag AOR,20754,Bihar,132,-339.04,1,0.0,-339.04,0,0
+Darya Ganj  Delhi,172,Delhi,111,-1271.4,1,0.0,-1271.4,0,0
+Dasarahalli NGS,22910,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Delhi Cantt,20977,Delhi,111,-339.04,1,0.0,-339.04,0,0
+Devanahalli,21422,Karnataka,153,0.0,1,0.0,0.0,0,1
+Devangere  Bangalore  KA,205,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+Dhaba Garden  Seemandhra,129,AndraPRadesh,151,-889.98,1,0.0,-889.98,0,0
+Dhanori Ngs,22827,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Dharapuram Road Mini,21215,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Dharwad Digital Store,828,Karnataka,153,-1229.02,1,0.0,-1229.02,0,0
+Dhayri AOR,21140,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Dhule OR,20658,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Diary  Baroda,424,Gujrat,171,-423.8,1,0.0,-423.8,0,0
+Dilsukhnagar  Telangana,65,Telangana,15136,-678.08,1,0.0,-678.08,0,0
+Dimapur AOR,22756,Nagaland,13313,-296.66,1,0.0,-296.66,0,0
+Dindigul AOR,20529,Tamil Nadu,155,-762.84,1,0.0,-762.84,0,0
+Dinnur Main Road Mini OR,21222,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+District Center BBSR,21090,Odisha,134,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Divyashree Towers  Bangalore,10,Karnataka,153,-720.46,1,0.0,-720.46,0,0
+Dobsonroad AOR,20877,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+Doddakannelli,21425,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Doddanagamangala E City,21473,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+Dombivali 90ft,22833,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Dombivali East  Mumbai,550,Maharashtra,17327,-2754.32,1,0.0,-2754.32,0,0
+Dombivali OR MUM,20671,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Dombivali Palawa,22848,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Domlur DLC,21206,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+DommasandraOR,20591,Karnataka,153,-339.04,1,0.0,-339.04,0,0
+Downtown mall AOR,20747,West Bengal,135,-2372.9000000000005,1,0.0,-2372.9000000000005,0,0
+Dr Rajkumar Road OR,20586,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Drive In Road  Ahmedabad,576,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Dumdum Road  Kolkata,188,West Bengal,135,-550.94,1,0.0,-550.94,0,0
+Durga Telecom HP,21499,HP,11202,0.0,1,0.0,0.0,0,1
+Dwarka Sec-11  Delhi,277,Delhi,111,-2669.56,1,0.0,-2669.56,0,0
+Dwarka Sec-4  Delhi,299,Delhi,111,-3135.7400000000002,1,0.0,-3135.7400000000002,0,0
+Dwarkanagar Vizag,394,AndraPRadesh,151,-678.08,1,0.0,-678.08,0,0
+EDAYARPALAYAM MINI,21252,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+EXPRESS ROAD KANPUR,20612,UP,11109,-339.04,1,0.0,-339.04,0,0
+East of Kailash  Delhi,276,Delhi,111,-762.84,1,0.0,-762.84,0,0
+Ecil Next Gen Store  Hyderabad,865,Telangana,15136,-593.32,1,0.0,-593.32,0,0
+Egmore  Chennai,322,Tamil Nadu,155,-550.94,1,0.0,-550.94,0,0
+Ellaipillaichavadi Mini,21551,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Elphinstone Digital Store Mumbai,855,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Eluru Road  Vijaywada,311,AndraPRadesh,151,-762.84,1,0.0,-762.84,0,0
+Erode AOR  Tamil Nadu,749,Tamil Nadu,155,-1907.1000000000001,1,0.0,-1907.1000000000001,0,0
+Erode NGS,22772,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Etawah OR,20598,UP,11109,-466.18,1,0.0,-466.18,0,0
+Fairland  Salem  TN,295,Tamil Nadu,155,-1229.02,1,0.0,-1229.02,0,0
+Faridabad  Haryana,32,Haryana,11106,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+Fatehgunj  Baroda,268,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Fort  Mumbai,26,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+Frazer TownOR,20592,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Friends communication JK,21525,JK,114,-84.76,1,0.0,-84.76,0,0
+GARIA AOR,20549,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+GHANSOLIAOR,22790,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+GITA VATIKA GKP,20628,UP,11109,-381.42,1,0.0,-381.42,0,0
+GOREGAONWESTNGS2,21895,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+GOVERNORPET OR,20762,AndraPRadesh,151,-381.42,1,0.0,-381.42,0,0
+GS Road  Shillong,57,Meghalaya,133,-84.76,1,0.0,-84.76,0,0
+GUBBALALA OR STORE,20874,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+Gachi Bawli Hyderabad Telangana,79,Telangana,15136,-805.22,1,0.0,-805.22,0,0
+Gajuwaka  Seemandhra,273,AndraPRadesh,151,-805.22,1,0.0,-805.22,0,0
+Ganapathy  Coimbatore  TN,220,Tamil Nadu,155,-466.18,1,0.0,-466.18,0,0
+Gandhi Maidan  Patna,496,Bihar,132,-1652.8200000000002,1,0.0,-1652.8200000000002,0,0
+Gandhi Nagar  Bangalore,102,Karnataka,153,-1059.5,1,0.0,-1059.5,0,0
+Gandhi Nagar  Ghaziabad,242,UP,11109,-339.04,1,0.0,-339.04,0,0
+Gandhi Nagar  Moradabad  UP,203,UP,11109,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Gandhidham Gujarat,614,Gujrat,171,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Gangashahar mini,21407,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+Gayathri Complex Mysore DLC,20694,Karnataka,153,-4998.4400000000005,1,0.0,-4998.4400000000005,0,0
+Geeta Colony  Delhi,373,Delhi,111,-1271.4,1,0.0,-1271.4,0,0
+Geeta Nagar Store,21072,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Ghatkoper East AOR,694,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Ghatkoperwestngs,21476,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Ghatlodia  Ahmedabad,433,Gujrat,171,-466.18,1,0.0,-466.18,0,0
+Gill Road Ludhiana,667,Punjab,115,-381.42,1,0.0,-381.42,0,0
+Girgaon Relocation,22843,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Giriraj Complex  Indore,158,Madhya Pradesh,172,-805.22,1,0.0,-805.22,0,0
+Girish Park OR,20532,West Bengal,135,-381.42,1,0.0,-381.42,0,0
+Godadara S,21301,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Golf Course  Gurgaon,364,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Golpark OR WB,20597,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Gomti Nagar  Lucknow,177,UP,11109,-889.98,1,0.0,-889.98,0,0
+Good Earth  Gurgaon,246,Haryana,11106,-381.42,1,0.0,-381.42,0,0
+Gopikar Road  Hubli1  KA,232,Karnataka,153,-635.7,1,0.0,-635.7,0,0
+Goregaon West  Mumbai,44,Maharashtra,17327,-762.84,1,0.0,-762.84,0,0
+Gorwa,21299,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Gota AOR,20654,Gujrat,171,-296.66,1,0.0,-296.66,0,0
+Govind Nagar  Kanpur,251,UP,11109,-550.94,1,0.0,-550.94,0,0
+Gowrivakkam  Chennai,534,Tamil Nadu,155,-466.18,1,0.0,-466.18,0,0
+Green Park  Delhi,339,Delhi,111,-805.22,1,0.0,-805.22,0,0
+Gulbarga Store  Karnataka,88,Karnataka,153,-1398.5400000000002,1,0.0,-1398.5400000000002,0,0
+Gummidipoondi NGS,22810,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Guntur  Seemandhra,350,AndraPRadesh,151,-550.94,1,0.0,-550.94,0,0
+Guntur naaz,21395,AndraPRadesh,151,-169.52,1,0.0,-169.52,0,0
+Gurgaon Sector 14,415,Haryana,11106,-805.22,1,0.0,-805.22,0,0
+HAFEEZPET NGS OR,22795,Telangana,15136,-211.9,1,0.0,-211.9,0,0
+HARALUR NGS,22874,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+HIRABAUGH NGS,20515,Gujrat,171,-550.94,1,0.0,-550.94,0,0
+HMT Srinagar,22915,JK,114,-42.38,1,0.0,-42.38,0,0
+HSR Layout AOR Bangalore,684,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+HSR NGS  Bangalore,925,Karnataka,153,-678.08,1,0.0,-678.08,0,0
+HSR3 OR,20572,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+HUBLI OR 3,20928,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+HUDA Market  Sector-31  Gurgaon,514,Haryana,11106,-550.94,1,0.0,-550.94,0,0
+HYDERNAGAR AOR,20786,Telangana,15136,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+Habsiguda Hyderabad Telangana,145,Telangana,15136,-550.94,1,0.0,-550.94,0,0
+Haibowal Ludhiana MINI OR,21270,Punjab,115,-169.52,1,0.0,-169.52,0,0
+Haldwani AOR,20934,Uttarakhand,11705,-720.46,1,0.0,-720.46,0,0
+Hanamakonda NGS2,21364,Telangana,15136,-84.76,1,0.0,-84.76,0,0
+Hanamkonda AOR,20713,Telangana,15136,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Hari Om Tower  Ranchi,81,Jharkhand,13220,-1398.5400000000002,1,0.0,-1398.5400000000002,0,0
+Harmu Road   Ranchi,418,Jharkhand,13220,-1101.88,1,0.0,-1101.88,0,0
+Haroon Communication JK,21523,JK,114,-339.04,1,0.0,-339.04,0,0
+Hassan  Karnataka,125,Karnataka,153,-1568.0600000000002,1,0.0,-1568.0600000000002,0,0
+Hasthampatti NGS,22762,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Hazrat Ganj  Lucknow,97,UP,11109,-381.42,1,0.0,-381.42,0,0
+Hegade NagarOR,20593,Karnataka,153,-1101.88,1,0.0,-1101.88,0,0
+Hegganahalli OR,20582,Karnataka,153,-889.98,1,0.0,-889.98,0,0
+Helabattala AOR,21121,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Hesaraghatta Bangalore,212,Karnataka,153,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Hesaraghatta mini,21292,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Hewitt DEL Wipro,21531,Haryana,11106,-42.38,1,0.0,-42.38,0,0
+Himayathnagar  Telangana,67,Telangana,15136,-84.76,1,0.0,-84.76,0,0
+Hingna Store,22140,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Hinjewadi Store,22761,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Hinoo -Sharnam  Ranchi,146,Jharkhand,13220,-1186.64,1,0.0,-1186.64,0,0
+Hiranandaniaorngs,21475,Maharashtra,17327,-2372.9,1,0.0,-2372.9,0,0
+Hitech City  Telangana,577,Telangana,15136,-211.9,1,0.0,-211.9,0,0
+HongKong Bazaar  Gurgaon,236,Haryana,11106,-847.6,1,0.0,-847.6,0,0
+Hopes NGS,20781,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Hospet  Bangalore,131,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Hosur NGS,880,Tamil Nadu,155,-2839.0800000000004,1,0.0,-2839.0800000000004,0,0
+ICICI Lombard,21564,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+IGNOU,21360,Delhi,111,-296.66,1,0.0,-296.66,0,0
+IMT Manesar,20613,Haryana,11106,-381.42,1,0.0,-381.42,0,0
+IT Park Lobby  Chandigarh,178,Chandigarh,11504,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+IT SEZ  Chennai One  TN,274,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Immadihalli Mini OR,22141,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Indira Nagar  Lucknow,346,UP,11109,-296.66,1,0.0,-296.66,0,0
+Indiranagar 1st Stage,21470,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Indranagar  Bangalore,22,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Isanpur  Ahmedabad,335,Gujrat,171,-1186.64,1,0.0,-1186.64,0,0
+Iyyapanthangal  Chennai,436,Tamil Nadu,155,-1313.78,1,0.0,-1313.78,0,0
+JAJPUR AOR,20845,Odisha,134,0.0,1,0.0,0.0,0,1
+JP Nagar  Bangalore,130,Karnataka,153,-635.7,1,0.0,-635.7,0,0
+JP Nagar2  Bangalore,161,Karnataka,153,-296.66,1,0.0,-296.66,0,0
+Jadavpur AOR,20596,West Bengal,135,-2457.6600000000003,1,0.0,-2457.6600000000003,0,0
+Jail Road Store,21887,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Jalna Store,20973,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Jambusavari Dinne Mini OR,21931,Karnataka,153,-339.04,1,0.0,-339.04,0,0
+James Long Mini AOR,21928,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+Jamnagar   Gujrat,505,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Janakpuri  Delhi,241,Delhi,111,-847.6,1,0.0,-847.6,0,0
+Jaripatka Store,21949,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Jay Enterpirses,21555,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Jayanagar  Bangalore,344,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Jaydev Vihar,167,Odisha,134,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Jharpada BBSR,22078,Odisha,134,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Jubilee Hills Hyderabad Telangana,126,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Jyoti Chowk  Jalandhar,190,Punjab,115,-762.84,1,0.0,-762.84,0,0
+KADAPPAKKADA OR,20637,Kerala,154,-84.76,1,0.0,-84.76,0,0
+KALYANI AOR,20635,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+KANNUR NGS,20851,Kerala,154,-339.04,1,0.0,-339.04,0,0
+KARAIKUDI  NGS,22897,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+KARAMANA OR,20771,Kerala,154,-1101.88,1,0.0,-1101.88,0,0
+KARELIBAGH NGS,20514,Gujrat,171,-381.42,1,0.0,-381.42,0,0
+KATORA TALAB STORE,20789,Chattisgarh,17222,0.0,1,0.0,0.0,0,1
+KATTUR MINI,21535,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+KAYAMKULAM NGS,21009,Kerala,154,-211.9,1,0.0,-211.9,0,0
+KHAMMAM AOR,20927,Telangana,15136,-678.08,1,0.0,-678.08,0,0
+KIMS Main Gate  Hubli2  KA,233,Karnataka,153,-1144.26,1,0.0,-1144.26,0,0
+KK Nagar  Madurai  TN,267,Tamil Nadu,155,-974.74,1,0.0,-974.74,0,0
+KM PLAZA OR,20656,Tamil Nadu,155,-1229.02,1,0.0,-1229.02,0,0
+KOHLAPUR ZONAL OFFICE NGS,22880,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+KOTTARAKKARA OR,20636,Kerala,154,-381.42,1,0.0,-381.42,0,0
+KPHB OR,20632,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+KPHB2 OR,20761,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+KR Puram Main Road  MINI,21235,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+KR Puram Seegehalli,21249,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+KRISHNA NAGAR NGS  Vellore,879,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+KSR Towers,543,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+KUMBAKONAM NGS,22709,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Kadapa OR,21367,AndraPRadesh,151,-466.18,1,0.0,-466.18,0,0
+Kadavantara  Kochi,33,Kerala,154,-466.18,1,0.0,-466.18,0,0
+Kadugodi  Bangalore  KA,229,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Kagadassapura  Bangalore,406,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+Kailash Telecom,21558,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kakinada  SA,506,AndraPRadesh,151,-889.98,1,0.0,-889.98,0,0
+Kakinada Bhanugudi Store,21342,AndraPRadesh,151,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kakurgachi  Kolkata,389,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+Kalachowki MUM,20670,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+Kalamassery OR,20652,Kerala,154,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Kalapatti Mini,21138,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Kalidasa Road  Mysore  Karnataka,90,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Kalighat OR,20603,West Bengal,135,0.0,1,0.0,0.0,0,1
+Kalkaji  Delhi,29,Delhi,111,-678.08,1,0.0,-678.08,0,0
+Kalptaru Jodhpur2,557,Rajasthan,176,-635.7,1,0.0,-635.7,0,0
+Kalyan OR,20623,Maharashtra,17327,-466.18,1,0.0,-466.18,0,0
+Kalyan W AOR,603,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Kalyani Nagar  Pune,536,Maharashtra,17327,-2160.1800000000003,1,0.0,-2160.1800000000003,0,0
+Kamalgazi Mini,21197,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kamaraj Salai  Madurai,331,Tamil Nadu,155,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Kamla Nagar  Delhi,168,Delhi,111,-932.36,1,0.0,-932.36,0,0
+Kammanalli  Bangalore,182,Karnataka,153,-2754.32,1,0.0,-2754.32,0,0
+Kamothe OR,20627,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kanchipuram NGS,20720,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Kanchrapara Mini,21326,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Kandivali Hindustan Naka,20706,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Kandivali SV road,20619,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kandivali Thakur village store,20848,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+Kandivali W  Mumbai,617,Maharashtra,17327,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+Kangeyam Road NGS,20824,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Kanhangad NGS,20551,Kerala,154,-169.52,1,0.0,-169.52,0,0
+Kankarbagh Patna,449,Bihar,132,-1949.48,1,0.0,-1949.48,0,0
+Karad Store,20933,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Karayanchavadi Mini,21162,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Karim Nagar Hyderabad,701,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Karkadooma  New Delhi,312,Delhi,111,-593.32,1,0.0,-593.32,0,0
+Karkhana Secunderabd Telangana,117,Telangana,15136,-593.32,1,0.0,-593.32,0,0
+Karnal  Haryana,262,Haryana,11106,-169.52,1,0.0,-169.52,0,0
+Karumandapam Mini,21188,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+Karur NGS,20915,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Kasba  Kolkata,472,West Bengal,135,-423.8,1,0.0,-423.8,0,0
+Kasba bavda Store,21321,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Kashmir Telecommunication JK,21518,JK,114,-42.38,1,0.0,-42.38,0,0
+KashmirTraders JK,21440,JK,114,-42.38,1,0.0,-42.38,0,0
+Kasturi Nagar  Bangalore,374,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Katargam OR,20680,Gujrat,171,-466.18,1,0.0,-466.18,0,0
+Katpadi NGS,20975,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Kazhakuttam Mini Store,21281,Kerala,154,-211.9,1,0.0,-211.9,0,0
+Kelambakkam NGS,22870,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Kellys NGS,20536,Tamil Nadu,155,-1229.02,1,0.0,-1229.02,0,0
+Kestopur Mini,21905,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Khadki store NGS,22802,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Khamla Store,20920,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Khanpur OR,20859,Delhi,111,-1398.5400000000002,1,0.0,-1398.5400000000002,0,0
+Kharadi OR,20543,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Khardah Mini,21198,West Bengal,135,-296.66,1,0.0,-296.66,0,0
+Kharghar AOR  Mumbai,900,Maharashtra,17327,-2881.4600000000005,1,0.0,-2881.4600000000005,0,0
+Kingeri  Bangalore,156,Karnataka,153,-3390.0200000000004,1,0.0,-3390.0200000000004,0,0
+Kirti Nagar   Delhi,422,Delhi,111,-678.08,1,0.0,-678.08,0,0
+Kodambakkam NGS,20534,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+Kodichikkanahalli Mini,21021,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+Kodungaiyur Mini Store,21193,Tamil Nadu,155,-296.66,1,0.0,-296.66,0,0
+Kolathur NGS,20867,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Kondapur Hyderabad,515,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+Konnagar AOR,20878,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Koperkhairane OR,20624,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Koramangala 5th Block,11531,Karnataka,153,-5466.26,1,0.0,-5466.26,0,0
+Koramangala 80 ft  Bangalore,100,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+Koregaonpark NGS,22799,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Kota Rajasthan,473,Rajasthan,176,-974.74,1,0.0,-974.74,0,0
+Kottakkal NGS,20820,Kerala,154,-381.42,1,0.0,-381.42,0,0
+Kottayam NGS,20797,Kerala,154,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Krishna Nagar,22146,Delhi,111,-339.04,1,0.0,-339.04,0,0
+Krishnagiri NGS,20900,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Kudghat Mini,21347,West Bengal,135,0.0,1,0.0,0.0,0,1
+Kukaptally2  Hyderabad,594,Telangana,15136,-423.8,1,0.0,-423.8,0,0
+Kukatpally Aircel  Telangana,46,Telangana,15136,-762.84,1,0.0,-762.84,0,0
+Kumarswamy Layout OR,20564,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Kumudhamnagar Mini,21037,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Kundan Plaza Hall Bazar Amritsar,189,Punjab,115,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+Kundanoor Lobby  Cochin,303,Kerala,154,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Kuniyamuthur NGS,20805,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Kurla Bhabha Hospital,20622,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Kurla LBS,20620,Maharashtra,24127,-2584.8,1,0.0,-2584.8,0,0
+Kurnool  Seemandhra,234,AndraPRadesh,151,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+L & T AES,540,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+LALGANGA STORE,20723,Chattisgarh,17222,-296.66,1,0.0,-296.66,0,0
+LFS BTM NGS  Bangalore,893,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+LFS Gulbarga  Karnataka,881,Karnataka,153,-678.08,1,0.0,-678.08,0,0
+Laal Bagh  Karnataka,68,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Laggere,21304,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+Lajpat Nagar  Delhi,2,Delhi,111,-1186.64,1,0.0,-1186.64,0,0
+Laketown Jaya Mini,21479,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Lakshmipuram  Guntur,691,AndraPRadesh,151,-762.84,1,0.0,-762.84,0,0
+Lal Bangla Kanpur,20611,UP,11109,-678.08,1,0.0,-678.08,0,0
+Latur OR,21017,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Lawrence Road  Amritsar,365,Punjab,115,-423.8,1,0.0,-423.8,0,0
+Leela Bhawan Chowk  Patiala,153,Punjab,115,-381.42,1,0.0,-381.42,0,0
+Lewis Road_AOR,22922,Odisha,134,-84.76,1,0.0,-84.76,0,0
+Life Style Communication 2 JK,21495,JK,114,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Life Style1 JK,21522,JK,114,0.0,1,0.0,0.0,0,1
+Liluah  Howrah  WB,519,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Lingarajapura,21379,Karnataka,153,-169.52,1,0.0,-169.52,0,0
+Lobby Conversion  Vizag,127,AndraPRadesh,151,-635.7,1,0.0,-635.7,0,0
+Lobby Ludhiana,388,Punjab,115,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Lobby conversion  Ahmedabad  Gujrat,106,Gujrat,171,-3050.98,1,0.0,-3050.98,0,0
+Lokhandwala  Mumbai,291,Maharashtra,17327,-720.46,1,0.0,-720.46,0,0
+Lower Parel(arc conv)  Mumbai,341,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+M S Charming JK,21441,JK,114,0.0,1,0.0,0.0,0,1
+M3M Urbana,20689,Haryana,11106,-423.8,1,0.0,-423.8,0,0
+MADHURAWADA OR,22928,AndraPRadesh,151,-339.04,1,0.0,-339.04,0,0
+MADINAGUDA OR,20760,Telangana,15136,-762.84,1,0.0,-762.84,0,0
+MALLATALAI MINI STORE,21474,Rajasthan,176,-381.42,1,0.0,-381.42,0,0
+MAPUSA NGS,22815,GOA,17330,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MAYURVIHAR PH-2,20615,Delhi,111,-550.94,1,0.0,-550.94,0,0
+MEDICAL COLLEGE MINI,21241,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MH BAL_ROMPUNEKondhwaHS49BASL_AOR,11490,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+MH ROMKOLRajaramPuriHS47BASL_AOR,11696,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+MH ROMNAGMountRoadHS46BASL_AOR,11718,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+MH ROMNASDattaMandirHS45BASL_AOR,11717,Maharashtra,17327,-762.84,1,0.0,-762.84,0,0
+MH ROMNagDhantoliHS48BASL_AOR,11695,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+MI Road  Jaipur,36,Rajasthan,176,-466.18,1,0.0,-466.18,0,0
+MINI OR 100 ft Road  PB,21268,Punjab,115,-42.38,1,0.0,-42.38,0,0
+MINI OR CHHERTHA ROAD AMRITSAR PB,21896,Punjab,115,-211.9,1,0.0,-211.9,0,0
+MINI OR JP NAGAR,21176,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+MINI OR JP Nagar Jalandhar,21897,Punjab,115,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+MINI OR Jatal Road Panipat,21312,Haryana,11106,-42.38,1,0.0,-42.38,0,0
+MINI OR Kakowal Road Ludhiana,21936,Punjab,115,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MINI OR Store Ambala Cantt,21308,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MINI OR Store Prem Nagar Patiala PB,21396,Punjab,115,-211.9,1,0.0,-211.9,0,0
+MINI Store Hissar,21314,Haryana,11106,-169.52,1,0.0,-169.52,0,0
+MINI Store Karnal,21313,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MINI Store Ram nagar panipat,21399,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MOHADDIPUR GKP,20692,UP,11109,-296.66,1,0.0,-296.66,0,0
+MURALI NAGAR OR,20889,AndraPRadesh,151,-296.66,1,0.0,-296.66,0,0
+MUVATTUPUZHA NGS,20795,Kerala,154,-84.76,1,0.0,-84.76,0,0
+MVP Colony Visakhapatnam,558,AndraPRadesh,151,-762.84,1,0.0,-762.84,0,0
+MYNET,21901,Haryana,11106,0.0,1,0.0,0.0,0,1
+Machilipatnam OR,20606,AndraPRadesh,151,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+MadhapurSrishti Tower Telangana,7,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+Madhyamgram AOR,22671,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Madikeri,21376,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+Madipakkam  Chennai  TN,218,Tamil Nadu,155,-974.74,1,0.0,-974.74,0,0
+Madurai PT Rajan Road,20946,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Maduravoyal Mini Store,21186,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Magadi Road Mini,21287,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mahadevpura  Bangalore,885,Karnataka,153,-678.08,1,0.0,-678.08,0,0
+Mahalakshmi OR,20581,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+Mahanagar Lucknow,432,UP,11109,-889.98,1,0.0,-889.98,0,0
+Mahavir Enclave Store,20976,Delhi,111,-1271.4,1,0.0,-1271.4,0,0
+Mahenindra World City Chennai,326,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Mahim AOR,20507,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Malad East,22846,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Malad S V road NGS,22901,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Malad West NSG  Mumbai,937,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Malda AOR,20634,West Bengal,135,-466.18,1,0.0,-466.18,0,0
+Maldahiya  Varanasi  UP,323,UP,11109,-593.32,1,0.0,-593.32,0,0
+Malkajgiri Hyderabad TG,204,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+Mall Road  Shimla,367,HP,11202,-296.66,1,0.0,-296.66,0,0
+Mall Road Ferozpur,757,Punjab,115,-466.18,1,0.0,-466.18,0,0
+Malleshwaram  Bangalore,562,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Malviya Nagar  Delhi,137,Delhi,111,-974.74,1,0.0,-974.74,0,0
+Malviya Nagar  Jaipur,293,Rajasthan,176,-635.7,1,0.0,-635.7,0,0
+Mandi  H.P.,379,HP,11202,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mandya OR Store,20941,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Mangal Pandey Nagar meerut,20546,UP,11109,-932.36,1,0.0,-932.36,0,0
+Mangalgiri AOR,22873,AndraPRadesh,151,-381.42,1,0.0,-381.42,0,0
+Manikonda OR,20777,Telangana,15136,-211.9,1,0.0,-211.9,0,0
+Manipal  Karnataka,69,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Manish Nagar Store,21324,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Manjeri NGS,20685,Kerala,154,-169.52,1,0.0,-169.52,0,0
+Mansarovar  Jaipur,164,Rajasthan,176,-678.08,1,0.0,-678.08,0,0
+Mansoorabad_AOR,20852,Telangana,15136,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Maraimalai Nagar Mini,21398,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Marathalli  Bangalore,213,Karnataka,153,-974.74,1,0.0,-974.74,0,0
+Margaon OR,20638,GOA,17330,-466.18,1,0.0,-466.18,0,0
+Masoodpur  Vasant Kunj,20981,Delhi,111,-593.32,1,0.0,-593.32,0,0
+Mathikere OR,20589,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+Mavoor Road NGS,20610,Kerala,154,-550.94,1,0.0,-550.94,0,0
+Mayur Vihar PH-1,20821,Delhi,111,-762.84,1,0.0,-762.84,0,0
+Mayur Vihar Phase 3 Mini Store,21085,Delhi,111,-296.66,1,0.0,-296.66,0,0
+Medavakkam Mini,21036,Tamil Nadu,155,-423.8,1,0.0,-423.8,0,0
+Meera Road Mumbai,395,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Mehdipatnam AP,20861,Telangana,15136,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mehsana OR,20698,Gujrat,171,-635.7,1,0.0,-635.7,0,0
+Minarava Mall  Ambala  Haryana,83,Haryana,11106,-762.84,1,0.0,-762.84,0,0
+Mini AOR New AaryaNagar Ghaziabad,21028,UP,11109,-42.38,1,0.0,-42.38,0,0
+Mini Govindpuram,21119,UP,11109,-211.9,1,0.0,-211.9,0,0
+Mini Laxman Vihar,21330,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mini OR Saguna More Patna,21339,Bihar,132,-169.52,1,0.0,-169.52,0,0
+Mini OR Tilka Manjhi Bhagalpur,21337,Bihar,132,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Mini Paharganj store,21403,Delhi,111,-635.7,1,0.0,-635.7,0,0
+Mini StorBallabhgarh Faridabad,21136,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mini Store Bari Brahmana,22151,JK,114,-42.38,1,0.0,-42.38,0,0
+Mini Store Bhajanpura,21190,Delhi,111,0.0,1,0.0,0.0,0,1
+Mini Store Bindu Katra,22148,UP,11109,-211.9,1,0.0,-211.9,0,0
+Mini Store Chinar,22789,JK,114,-42.38,1,0.0,-42.38,0,0
+Mini Store Jungpura Delhi DL374,21093,Delhi,111,-466.18,1,0.0,-466.18,0,0
+Mini Store Kapashera,21446,Delhi,111,-339.04,1,0.0,-339.04,0,0
+Mini Store Karol Bagh Delh,21207,Delhi,111,-720.46,1,0.0,-720.46,0,0
+Mini Store Kilokri Delhi DL384,21255,Delhi,111,-169.52,1,0.0,-169.52,0,0
+Mini Store Mahavir Enclave,21315,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mini Store Medical Road,22143,UP,11109,-211.9,1,0.0,-211.9,0,0
+Mini Store Muzaffarpur,21283,Bihar,132,-296.66,1,0.0,-296.66,0,0
+Mini Store Pratap Vihar GZB,21341,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Mini Store Ranibagh,22741,Delhi,111,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Mini Store Rohini Sec 22,21318,Delhi,111,-593.32,1,0.0,-593.32,0,0
+Mini Store Roshanpura,21388,Delhi,111,-169.52,1,0.0,-169.52,0,0
+Mini Store Sainik Vihar,21316,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mini Store Shaheen Bagh Delhi DL378,21094,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mini Store Shalimar Ext GZB,21307,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Mini Store Shamsabad,21550,UP,11109,-169.52,1,0.0,-169.52,0,0
+Mini Store Sita Ram Bazar Delhi,21387,Delhi,111,-211.9,1,0.0,-211.9,0,0
+Mini Store TARAMANDAL,21368,UP,11109,-84.76,1,0.0,-84.76,0,0
+Mini Store West Patel Nagar,21467,Delhi,111,-169.52,1,0.0,-169.52,0,0
+Mini store baltana,21246,Chandigarh,11504,-84.76,1,0.0,-84.76,0,0
+Ministore Maneja,21082,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Ministore Nana Chiloda,21079,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mira Road NGS,11723,Maharashtra,17327,-466.18,1,0.0,-466.18,0,0
+MiraRoad3MUM,21013,Maharashtra,17327,-593.32,1,0.0,-593.32,0,0
+Miraroadeast mini,21024,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Mobile Connect PB,21516,Punjab,115,-42.38,1,0.0,-42.38,0,0
+Mobile World JK,21498,JK,114,0.0,1,0.0,0.0,0,1
+Model Town  Delhi,359,Delhi,111,-339.04,1,0.0,-339.04,0,0
+Model Town Mkt Jalandhar,183,Punjab,115,-423.8,1,0.0,-423.8,0,0
+Modern Cellular,21938,Gujrat,171,0.0,1,0.0,0.0,0,1
+Mogapair  Chennai,329,Tamil Nadu,155,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Mohali Phase 10 Sector 64,462,Punjab,115,-423.8,1,0.0,-423.8,0,0
+Mohali Phase 5  Punjab,707,Punjab,115,-296.66,1,0.0,-296.66,0,0
+Moolakadai NGS,20849,Tamil Nadu,155,-889.98,1,0.0,-889.98,0,0
+Moosapet OR,20716,Telangana,15136,-381.42,1,0.0,-381.42,0,0
+Moshi AOR,20804,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Moti Nagar,22832,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Mudalaplya Govindaraja nagar,21220,Karnataka,153,0.0,1,0.0,0.0,0,1
+Mukundapur Mini,21319,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Mulund  Mumbai,225,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Muzaffarnagar OR,20601,UP,11109,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+MysoreKR mohalla OR,20561,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+Mysorevijaynagar OR,20562,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+NAC Manimajra OR,20558,Punjab,115,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+NAD JUNCTION VizagNext Gen Store Seemadhra,848,AndraPRadesh,151,-593.32,1,0.0,-593.32,0,0
+NANAK NAGAR JK,20871,JK,114,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NEELANKARAI NGS,22876,Tamil Nadu,155,-805.22,1,0.0,-805.22,0,0
+NEHRU ROAD MINI,21447,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NET,21900,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NGS - Kalyan,20486,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+NGS ALTHAN SURAT,20523,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+NGS Brodipet  Guntur,921,AndraPRadesh,151,-296.66,1,0.0,-296.66,0,0
+NGS Budaun Road Bareilly,22839,UP,11109,-42.38,1,0.0,-42.38,0,0
+NGS Danavaipeta,20495,AndraPRadesh,151,-381.42,1,0.0,-381.42,0,0
+NGS ELURU Road,20491,AndraPRadesh,151,-932.36,1,0.0,-932.36,0,0
+NGS Elgin Road,20497,West Bengal,135,-169.52,1,0.0,-169.52,0,0
+NGS Gandhi Bazar  Bangalore,941,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+NGS Hapur,21393,UP,11109,-296.66,1,0.0,-296.66,0,0
+NGS ID market,20496,Odisha,134,-296.66,1,0.0,-296.66,0,0
+NGS Jhunjhunu,20983,Rajasthan,176,-381.42,1,0.0,-381.42,0,0
+NGS KALAMBOLI,20794,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+NGS Kankerkhera,20960,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+NGS Kanth Road,22817,UP,11109,-84.76,1,0.0,-84.76,0,0
+NGS Kollam,20489,Kerala,154,-339.04,1,0.0,-339.04,0,0
+NGS MODINAGAR,22809,UP,11109,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NGS Mahatma Gandhi Nagar,20493,Rajasthan,176,-296.66,1,0.0,-296.66,0,0
+NGS Motihari,22828,Bihar,132,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NGS Mulund,20494,Maharashtra,17327,-2499.2200000000003,1,0.0,-2499.2200000000003,0,0
+NGS Nizampura,20521,Gujrat,171,-339.04,1,0.0,-339.04,0,0
+NGS PATEL NAGAR,22793,Uttarakhand,11705,-381.42,1,0.0,-381.42,0,0
+NGS Pithoragarh,22842,Uttarakhand,11705,-42.38,1,0.0,-42.38,0,0
+NGS ROM Jalgaon,20501,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+NGS RTO Office Aligarh,22837,UP,11109,-42.38,1,0.0,-42.38,0,0
+NGS Ragigudda  Bangalore,936,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+NGS Raja Park,20492,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+NGS Rishikesh,20639,Uttarakhand,11705,-296.66,1,0.0,-296.66,0,0
+NGS Rotha Road,21132,UP,11109,-211.9,1,0.0,-211.9,0,0
+NGS SANJAY PLACE,20537,UP,11109,-211.9,1,0.0,-211.9,0,0
+NGS SHASTRI NAGAR,20944,UP,11109,-381.42,1,0.0,-381.42,0,0
+NGS SIKANDRA,22147,UP,11109,-339.04,1,0.0,-339.04,0,0
+NGS STADIUM ROAD,20535,UP,11109,-678.08,1,0.0,-678.08,0,0
+NGS Shivalik Nagar Haridwar,22801,Uttarakhand,11705,-381.42,1,0.0,-381.42,0,0
+NGS Suratgarh,20792,Rajasthan,176,-381.42,1,0.0,-381.42,0,0
+NGS THANE Boisar,20499,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+NGS Tea Board,20490,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+NGS Tonk Road,20516,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+NGS Township Mathura,22818,UP,11109,-423.8,1,0.0,-423.8,0,0
+NGS Vapi OR,20683,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NGS Vighan nagar OR,20995,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+NGS yamunavihar Bulandshahr,22804,UP,11109,-42.38,1,0.0,-42.38,0,0
+NGS_HAZARIBAGH,22831,Jharkhand,13220,-211.9,1,0.0,-211.9,0,0
+NGS_Store_Chhapra,22866,Bihar,132,-84.76,1,0.0,-84.76,0,0
+NGS_Store_Purnia,22868,Bihar,132,-169.52,1,0.0,-169.52,0,0
+NGS_Store_Siwan,22867,Bihar,132,-211.9,1,0.0,-211.9,0,0
+NIT Faridabad,275,Haryana,11106,-1440.92,1,0.0,-1440.92,0,0
+NR Colony OR,20563,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Nagercoil NGS,20912,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Nahur MUM,20672,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Naihati Mini,21279,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Najafgarh Delhi,592,Delhi,111,-3686.6800000000003,1,0.0,-3686.6800000000003,0,0
+Najar Telecommunication JK,21515,JK,114,-42.38,1,0.0,-42.38,0,0
+Nalasopara  Mumbai,553,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+Nalasopara West OR,20674,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+Nalgonda AOR,20974,Telangana,15136,-635.7,1,0.0,-635.7,0,0
+Nalstop OR,20886,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Namakkal NGS,21002,Tamil Nadu,155,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nanded OR,20887,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Nandi Durga  Bangalore,31,Karnataka,153,-720.46,1,0.0,-720.46,0,0
+Nanganallur NGS,20756,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Narayana  Delhi,133,Delhi,111,-805.22,1,0.0,-805.22,0,0
+Narayanguda AOR,20751,Telangana,15136,-423.8,1,0.0,-423.8,0,0
+Natucircle Nextgen Store Baroda,919,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Navalur NGS,22811,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Naveen Market  Kanpur,115,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Navyug Market  Ghaziabad,244,UP,11109,-593.32,1,0.0,-593.32,0,0
+Nehru Nagar  Belgaum  Karnataka,60,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+Nelamangala OR,20584,Karnataka,153,-1101.88,1,0.0,-1101.88,0,0
+Nerul NGS,20988,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Netaji Chowk Ulhasnagar Store,20522,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Netaji Subhash Palace New Delhi,200,Delhi,111,-2796.7000000000003,1,0.0,-2796.7000000000003,0,0
+New Adajan  Surat,382,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+New BEL Road  Devasandra  Bangalore,230,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+New Light Footwear JK,21527,JK,114,0.0,1,0.0,0.0,0,1
+Newtown Mini,21280,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+NextGen ODHAV OR,20724,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+NextGen Wall City,20500,Rajasthan,176,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Anand GUJ,20510,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Nextgen Anandmahel,11557,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Anjar AOR,20729,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Ankleshwar AOR,20730,Gujrat,171,-296.66,1,0.0,-296.66,0,0
+Nextgen Bharuch AOR,20731,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Bhavnagar AOR,20840,Gujrat,171,-296.66,1,0.0,-296.66,0,0
+Nextgen Bhuj AOR,20732,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Bopal AOR,20839,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Borsad AOR,20733,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Nextgen Daman AOR,20834,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Nextgen Deesa,22774,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen Dhebarroad AOR,20841,Gujrat,171,-339.04,1,0.0,-339.04,0,0
+Nextgen Godhra AOR,20734,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Himmatnagar AOR,20843,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Nextgen Jamnagar Aor,20965,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Kadi,20979,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Kalavad,20487,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen Kothi AOR,20744,Gujrat,171,-339.04,1,0.0,-339.04,0,0
+Nextgen Krishnanagar AOR,20727,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Nextgen Kudasan,22899,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Maninagar  Ahmedabad,942,Gujrat,171,-635.7,1,0.0,-635.7,0,0
+Nextgen Modasa,22808,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Nextgen Morbi AOR,20735,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen MotaVaracha AOR,20835,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Nextgen Mundra AOR,20736,Gujrat,171,-423.8,1,0.0,-423.8,0,0
+Nextgen Narol,22912,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Nava Naroda,22805,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Nextgen Navsari AOR,20737,Gujrat,171,-2583.9800000000005,1,0.0,-2583.9800000000005,0,0
+Nextgen NewRanip AOR,20725,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen Nikol AOR,20837,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Nextgen Palanpur AOR,20844,Gujrat,171,-339.04,1,0.0,-339.04,0,0
+Nextgen ParvatPatiya AOR,20741,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Patan AOR,20738,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Rakhiyal,22920,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Sanand,22913,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Sciencecity,11493,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Nextgen Shela,22856,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Nextgen Subhanpura AOR,20836,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen Surendranagar AOR,20743,Gujrat,171,-339.04,1,0.0,-339.04,0,0
+Nextgen TNTC Nikol,22906,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen Thaltej,22919,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen VIP Road AOR,20745,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Nextgen Vastral AOR,20838,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Nextgen Visnagar,22900,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Nextgen YogiChowk AOR,20742,Gujrat,171,-2500.04,1,0.0,-2500.04,0,0
+Nigdi OR,21213,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Nippani_OR,20817,Karnataka,153,-678.08,1,0.0,-678.08,0,0
+Nizambad AOR,20710,Telangana,15136,-296.66,1,0.0,-296.66,0,0
+Nizambad ngs2 AOR,22794,Telangana,15136,-84.76,1,0.0,-84.76,0,0
+Nizampet OR,20547,Telangana,15136,-720.46,1,0.0,-720.46,0,0
+Noida Sec-63  UP,280,UP,11109,-381.42,1,0.0,-381.42,0,0
+Noida Sector 137,736,UP,11109,-932.36,1,0.0,-932.36,0,0
+Noida Sector-120,343,UP,11109,-635.7,1,0.0,-635.7,0,0
+Noida Sector-126,348,UP,11109,0.0,1,0.0,0.0,0,1
+Noida-Sector-12  Noida,397,UP,11109,-1695.2,1,0.0,-1695.2,0,0
+Nonachandanpukur AOR,21122,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+North Tel Services JK,21505,JK,114,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+North West Traders HP,21510,HP,11202,-42.38,1,0.0,-42.38,0,0
+Nungambakkam  Chennai,35,Tamil Nadu,155,-720.46,1,0.0,-720.46,0,0
+Nuziveed OR,20604,AndraPRadesh,151,-169.52,1,0.0,-169.52,0,0
+OP Road  Baroda,404,Gujrat,171,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+OR AYODHYA,20864,UP,11109,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+OR Ashok Nagar,20641,Rajasthan,176,-169.52,1,0.0,-169.52,0,0
+OR Ashok udhyan,22878,Rajasthan,176,-84.76,1,0.0,-84.76,0,0
+OR Banswara,22798,Rajasthan,176,-296.66,1,0.0,-296.66,0,0
+OR Beawar,20971,Rajasthan,176,-423.8,1,0.0,-423.8,0,0
+OR Bhankrota,21361,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+OR Bhrampuri,21448,Rajasthan,176,-296.66,1,0.0,-296.66,0,0
+OR Capital alwar,21935,Rajasthan,176,0.0,1,0.0,0.0,0,1
+OR Chittorgarh,20903,Rajasthan,176,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+OR Dausa,22797,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+OR HIRAN MAGRI SECTOR-5,21333,Rajasthan,176,-169.52,1,0.0,-169.52,0,0
+OR Hiran magri sec 14,21334,Rajasthan,176,0.0,1,0.0,0.0,0,1
+OR Jagatpura,21284,Rajasthan,176,-169.52,1,0.0,-169.52,0,0
+OR Kankroli,22862,Rajasthan,176,-169.52,1,0.0,-169.52,0,0
+OR Kesar Chauraha,22824,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+OR Kishangarh,21571,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+OR KrishnaNagar,21133,UP,11109,0.0,1,0.0,0.0,0,1
+OR Kutchery Road AJMER,21356,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+OR Mansarovar mini store,21325,Rajasthan,176,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+OR Naranpura Nextgen,20517,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+OR New Sanganer Road,21010,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+OR PANJIM STORE,11860,GOA,17330,-550.94,1,0.0,-550.94,0,0
+OR Paota Jodhpur,20980,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+OR Ratanada,20640,Rajasthan,176,-593.32,1,0.0,-593.32,0,0
+OR SUBHASH CHOWK,21449,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+OR Salasar,21549,Rajasthan,176,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+OR Sirsi Road,22895,Rajasthan,176,-84.76,1,0.0,-84.76,0,0
+OR StationRoad,21310,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+OR Store Durgapura Jaipur,21528,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+OR Subhash Nagar,20663,Rajasthan,176,-381.42,1,0.0,-381.42,0,0
+OR Truth,20616,Rajasthan,176,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+OR_HOSA ROAD,20703,Karnataka,153,-762.84,1,0.0,-762.84,0,0
+OR_Hanumangarh,20655,Rajasthan,176,-339.04,1,0.0,-339.04,0,0
+OR_RaniBazaar,20644,Rajasthan,176,-847.6,1,0.0,-847.6,0,0
+Old City Ludhiana  Punjab,478,Punjab,115,-635.7,1,0.0,-635.7,0,0
+Ongole OR,20605,AndraPRadesh,151,-678.08,1,0.0,-678.08,0,0
+Opera House  Mumbai,223,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+OrbitMall Indore,516,Madhya Pradesh,172,-593.32,1,0.0,-593.32,0,0
+PALARIVATTOM NGS,20800,Kerala,154,-4745.8,1,0.0,-4745.8,0,0
+PAMMAL MINI,21045,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+PANBAZAR STORE,20994,Assam,131,-339.04,1,0.0,-339.04,0,0
+PAPAREDDYPALYA OR,20578,Karnataka,153,-1101.88,1,0.0,-1101.88,0,0
+PATRIKA MARG OR,20607,UP,11109,-889.98,1,0.0,-889.98,0,0
+PNB Mini OR,21128,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+POLLACHI NGS,20985,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+POONAMALLEE NGS,20850,Tamil Nadu,155,-720.46,1,0.0,-720.46,0,0
+PUDUKKOTTAI NGS,20853,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+PURI OR,21275,Odisha,134,-593.32,1,0.0,-593.32,0,0
+Padi Mini,21548,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Padivattom AOR,20796,Kerala,154,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+Padma Rao Nagar AOR,20752,Telangana,15136,-423.8,1,0.0,-423.8,0,0
+Pai Layout,21375,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+Palakkad NGS,20831,Kerala,154,-211.9,1,0.0,-211.9,0,0
+Palam Vihar OR,20544,Haryana,11106,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Paldi AOR,20518,Gujrat,171,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+Palladam NGS,20825,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Pammal Chennai,474,Tamil Nadu,155,-5466.26,1,0.0,-5466.26,0,0
+Panchkula  Sector 11  Haryana,28,Haryana,11106,-550.94,1,0.0,-550.94,0,0
+Panipat  Haryana,261,Haryana,11106,-1356.16,1,0.0,-1356.16,0,0
+Pankha road,20767,Delhi,111,-974.74,1,0.0,-974.74,0,0
+Pannadhay circle,21482,Rajasthan,176,-42.38,1,0.0,-42.38,0,0
+Panvel   Mumbai,445,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Panvel AOR,22844,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+Paradise Mall Telangana,5,Telangana,15136,-805.22,1,0.0,-805.22,0,0
+Paschim Vihar  Delhi,360,Delhi,111,-550.94,1,0.0,-550.94,0,0
+Pashan Store,21593,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Pasumalai Mini,21101,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Patamata AOR,20722,AndraPRadesh,151,-889.98,1,0.0,-889.98,0,0
+Patel Nagar  Delhi,296,Delhi,111,-550.94,1,0.0,-550.94,0,0
+Patlipura Colony  Patna,342,Bihar,132,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Pattom  Trivandrum  Kerala,285,Kerala,154,-423.8,1,0.0,-423.8,0,0
+Paud Road  Kothrud  Pune,248,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Peddawaltair NGS,11611,AndraPRadesh,24137,-2372.0800000000004,1,0.0,-2372.0800000000004,0,0
+Peeragrahi  Delhi,194,Delhi,111,-720.46,1,0.0,-720.46,0,0
+Perambur  Chennai  TN,219,Tamil Nadu,155,-1271.4,1,0.0,-1271.4,0,0
+Perumbavoor ngs,22751,Kerala,154,-211.9,1,0.0,-211.9,0,0
+Perungudi NGS,22792,Tamil Nadu,155,-678.08,1,0.0,-678.08,0,0
+Pimple Saudagar  Pune,586,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Pimpri  Pune,668,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+PoddarArcade OR,20681,Gujrat,171,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Pondy AOR  Pondicherry,780,Pondicherry,15534,-932.36,1,0.0,-932.36,0,0
+Pondy NGS,916,Pondicherry,15534,-635.7,1,0.0,-635.7,0,0
+Porbandar AOR,20556,Gujrat,171,-211.90000000000023,1,0.0,-211.90000000000023,0,0
+Porur  Chennai,330,Tamil Nadu,155,-10296.820000000002,1,0.0,-10296.820000000002,0,0
+Powai  Mumbai,237,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Prabhadevi  Mumbai,9,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Pradhan Tower  Ranchi,108,Jharkhand,13220,-3390.02,1,0.0,-3390.02,0,0
+Pragathi Nagar Mini Aor,21183,Telangana,15136,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Prahladnagar  Ahmedabad,403,Gujrat,171,-550.94,1,0.0,-550.94,0,0
+Pratap Nagar  Jaipur,634,Rajasthan,176,-805.22,1,0.0,-805.22,0,0
+Punjagutta  Hyderabad,337,Telangana,15136,-381.42,1,0.0,-381.42,0,0
+Pushkardham Road,21107,Gujrat,171,-84.76,1,0.0,-84.76,0,0
+Qutub Plaza,20704,Haryana,11106,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+RAJAJI NAGAR OR 1st block,20580,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+RAJAJINAGAR6thBlock OR,20567,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+RAMNAGAR OR,20560,Karnataka,153,-339.04,1,0.0,-339.04,0,0
+RAVET NGS,22814,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+RDC  Ghaziabad,98,UP,11109,-296.66,1,0.0,-296.66,0,0
+REDHILLS NGS,22770,Tamil Nadu,155,-593.32,1,0.0,-593.32,0,0
+RK road Ludhiana,20826,Punjab,115,-593.32,1,0.0,-593.32,0,0
+RNAIPL AES,22182,Tamil Nadu,155,-84.76,1,0.0,-84.76,0,0
+ROMSadarBazar solapur,20520,Maharashtra,17327,-550.94,1,0.0,-550.94,0,0
+RR Nagar Mini,21288,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+RR Nagar NGS  Bangalore,905,Karnataka,153,-762.84,1,0.0,-762.84,0,0
+RT Nagar  Bangalore  KA,228,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+RV Road OR Store,20552,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+Race Course  Baroda  Gujarat,159,Gujrat,171,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Raidurgam Next Gen Store  Telangana,834,Telangana,15136,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Raja Bazar  Patna,99,Bihar,132,-1101.88,1,0.0,-1101.88,0,0
+Rajamundry  Seemandhra,272,AndraPRadesh,151,-423.8,1,0.0,-423.8,0,0
+Rajkot  Gujarat,139,Gujrat,171,-720.46,1,0.0,-720.46,0,0
+Rajnagar Extension NGS,21944,UP,11109,-550.94,1,0.0,-550.94,0,0
+Rajouri Garden  Delhi,211,Delhi,111,-805.22,1,0.0,-805.22,0,0
+Rajpur Road  Dehradun,250,Uttarakhand,11705,-678.08,1,0.0,-678.08,0,0
+Ram Murthy  Bangalore,122,Karnataka,153,-635.7,1,0.0,-635.7,0,0
+Ramada  Jaipur,71,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Ramanattukara NGS,21276,Kerala,154,-381.42,1,0.0,-381.42,0,0
+Ramapuram Mini,21480,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Rameshwari Store,21323,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Ramna  Muzaffarpur  Bihar,191,Bihar,132,-1398.5400000000002,1,0.0,-1398.5400000000002,0,0
+Ramnagar   Surat,460,Gujrat,171,-593.32,1,0.0,-593.32,0,0
+Rana Enterprise HP,21493,HP,11202,0.0,1,0.0,0.0,0,1
+Ranipur Mod  Haridwar,316,Uttarakhand,11705,-932.36,1,0.0,-932.36,0,0
+Ranjit Tower  Bhopal  MP,245,Madhya Pradesh,172,-466.18,1,0.0,-466.18,0,0
+Raonagar Hyderabad,434,Telangana,15136,-762.84,1,0.0,-762.84,0,0
+Ravipuram AOR  Cochin,698,Kerala,154,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Reddiyarpalayam Mini,21067,Pondicherry,15534,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Residency  Bangalore,853,Karnataka,153,-296.6600000000001,1,0.0,-296.6600000000001,0,0
+Ridhi Siddhi  Jaipur,636,Rajasthan,176,-211.9,1,0.0,-211.9,0,0
+Ring Road  Surat  GJ,174,Gujrat,171,-932.36,1,0.0,-932.36,0,0
+Rishra Mini,21278,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Rohini  Delhi,20,Delhi,111,-1737.5800000000002,1,0.0,-1737.5800000000002,0,0
+Rohini Sec 24,20553,Delhi,111,-847.6,1,0.0,-847.6,0,0
+Rohini sec 16,20554,Delhi,111,-889.98,1,0.0,-889.98,0,0
+Rohini sector 28,21029,Delhi,111,-42.38,1,0.0,-42.38,0,0
+Ropar Store,20908,Punjab,115,-339.04,1,0.0,-339.04,0,0
+Rourkela  Odisha,152,Odisha,134,-932.36,1,0.0,-932.36,0,0
+Royapuram  Chennai,589,Tamil Nadu,155,-3262.88,1,0.0,-3262.88,0,0
+S S Communication JK,21506,JK,114,-296.66,1,0.0,-296.66,0,0
+SAHARANPUR CHAWK,20599,Uttarakhand,11705,-339.04,1,0.0,-339.04,0,0
+SANGAM CHOWK STORE,20790,Chattisgarh,17222,-169.52,1,0.0,-169.52,0,0
+SECTOR 10  BHILAI STORE,20788,Chattisgarh,17222,-550.94,1,0.0,-550.94,0,0
+SECTOR 4 7  GURGAON,20875,Haryana,11106,-423.8,1,0.0,-423.8,0,0
+SEETHAMMADHARA Store,20550,AndraPRadesh,151,-339.04,1,0.0,-339.04,0,0
+SHAHJAHANPUR,20865,UP,11109,-211.9,1,0.0,-211.9,0,0
+SHEGAON NAKA AMRAVATI NGS,22803,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+SHESHADRIPURAM OR,20566,Karnataka,153,-296.66,1,0.0,-296.66,0,0
+SHIMOGA OR2,20575,Karnataka,153,-720.46,1,0.0,-720.46,0,0
+SMB Services,21556,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+SODEPUR MINI,21930,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+SS Enterprises JK,21526,JK,114,-84.76,1,0.0,-84.76,0,0
+SUNDARAPURAM MINI,21392,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Sahakar Nagar  Bangalore,134,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Sahara Mall  Gurgaon,3,Haryana,11106,-762.84,1,0.0,-762.84,0,0
+Saharanpur  UP,278,UP,11109,-762.84,1,0.0,-762.84,0,0
+Sai Baba Temple,21426,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+SaiBaba Colony OR,20545,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Sainath Telecom MUM,21560,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Sakchi - Sagar Electronics  Jamshedpur,150,Jharkhand,13220,-1483.3000000000002,1,0.0,-1483.3000000000002,0,0
+Saket   Delhi,421,Delhi,111,-593.32,1,0.0,-593.32,0,0
+Saket Nagar  Indore  MP,147,Madhya Pradesh,172,-678.08,1,0.0,-678.08,0,0
+Salem Gugai NGS,20881,Tamil Nadu,155,-296.66,1,0.0,-296.66,0,0
+Salem NGS  Tamil Nadu,906,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Salem Tabri MINI OR Store,21462,Punjab,115,-211.9,1,0.0,-211.9,0,0
+Sama Savli,21303,Gujrat,171,0.0,1,0.0,0.0,0,1
+Sambalpur1AOR,20986,Odisha,134,-932.36,1,0.0,-932.36,0,0
+Samshabad OR,20778,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+Sanganer  Diggi Road Rajasthan,256,Rajasthan,176,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Sangareddy aor store,22812,Telangana,15136,-42.38,1,0.0,-42.38,0,0
+Sangli Store,20932,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Sanjay Palace  Agra  UP,165,UP,11109,-1271.4,1,0.0,-1271.4,0,0
+Sanjaynagar OR,20585,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Sanpada OR,20709,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Sanskriti OR,20528,Rajasthan,176,-1101.88,1,0.0,-1101.88,0,0
+SantaCruz W  Mumbai,18,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Santhome  Chennai,141,Tamil Nadu,155,-593.32,1,0.0,-593.32,0,0
+Santosh Nagar OR,20779,Telangana,15136,-1186.64,1,0.0,-1186.64,0,0
+Santoshpur Mini,21200,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Sapna Sangeeta  Indore,529,Madhya Pradesh,172,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Sarabha Nagar  Ludhiana  Punjab,96,Punjab,115,-169.52,1,0.0,-169.52,0,0
+Sarakki  Bangalore,533,Karnataka,153,-593.32,1,0.0,-593.32,0,0
+Sarat Bose Road  Kolkata,390,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Saravanampatti  Coimbatore,899,Tamil Nadu,155,-550.94,1,0.0,-550.94,0,0
+Sardarpura AOR  Udaipur,665,Rajasthan,176,-762.84,1,0.0,-762.84,0,0
+Sarjapur  Bangalore,283,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Sarojini Nagar  Delhi,240,Delhi,111,-466.18,1,0.0,-466.18,0,0
+Sarthana Surat,402,Gujrat,171,-635.7,1,0.0,-635.7,0,0
+Sasane Nagar OR,20806,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Satara Road ROM,20519,Maharashtra,17327,-635.7,1,0.0,-635.7,0,0
+Satara Store,20931,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+Satpur Store,21464,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Seawoods NGS Mumbai,884,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+Sec 16 Faridabad,20828,Haryana,11106,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Sec 17 CHB Jodhpur,21273,Rajasthan,176,-211.9,1,0.0,-211.9,0,0
+Sector 109 Gurgaon,20690,Haryana,11106,-211.9,1,0.0,-211.9,0,0
+Sector 11 Rohini,21031,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Sector 18  Noida,221,UP,11109,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+Sector 20  Panchkula,416,Haryana,11106,-381.42,1,0.0,-381.42,0,0
+Sector 22  Chandigarh,25,Chandigarh,11504,-381.42,1,0.0,-381.42,0,0
+Sector 22  Gurgaon,778,Haryana,11106,-678.08,1,0.0,-678.08,0,0
+Sector 27D  Chandigarh,378,Chandigarh,11504,-2668.7400000000002,1,0.0,-2668.7400000000002,0,0
+Sector 35C  Chandigarh,82,Chandigarh,11504,-2584.8,1,0.0,-2584.8,0,0
+Sector 36 Greater Noida,21066,UP,11109,-169.52,1,0.0,-169.52,0,0
+Sector 37-Faridabad,20643,Haryana,11106,-678.08,1,0.0,-678.08,0,0
+Sector 50  Noida  UP,201,UP,11109,-1313.78,1,0.0,-1313.78,0,0
+Sector 70 Mohali AOR,20508,Punjab,115,-296.66,1,0.0,-296.66,0,0
+Sector 9  Rohini  Delhi,239,Delhi,111,-847.6,1,0.0,-847.6,0,0
+Sector-10A  Gurgaon,319,Haryana,11106,-593.32,1,0.0,-593.32,0,0
+Sector5 Salt Lake Kolkata,208,West Bengal,135,-2415.28,1,0.0,-2415.28,0,0
+Serampore AOR,20963,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Serilingampally  AOR,20618,Telangana,15136,-339.04,1,0.0,-339.04,0,0
+Shahdhara  Delhi,362,Delhi,111,-2246.1400000000003,1,0.0,-2246.1400000000003,0,0
+Shahpurnagar AOR,20609,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+Shalimar Bagh  Delhi,338,Delhi,111,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Sharma Infosys HP,21503,HP,11202,-169.52,1,0.0,-169.52,0,0
+ShibpurAOR,20879,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Shimla Lobby,366,HP,11202,-169.52,1,0.0,-169.52,0,0
+Shimlapuri MINI OR Store,21269,Punjab,115,-42.38,1,0.0,-42.38,0,0
+Shimoga  Karnataka,175,Karnataka,153,-720.46,1,0.0,-720.46,0,0
+Shimpoli  Mumbai,265,Maharashtra,17327,-423.8,1,0.0,-423.8,0,0
+Shingar Road  Ludhiana,582,Punjab,115,-381.42,1,0.0,-381.42,0,0
+Shivaji nagar AOR,21143,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Sholiganallur MINI,21230,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Shorter Road Aor,20782,Kerala,154,-593.32,1,0.0,-593.32,0,0
+Shree Sainath Sales Corporation ROM,21542,Maharashtra,17327,-805.22,1,0.0,-805.22,0,0
+Shreya Enterprise,21597,Gujrat,171,0.0,1,0.0,0.0,0,1
+Shri Thakkar Communication HP,21521,HP,11202,-42.38,1,0.0,-42.38,0,0
+Shyambazar Mini,21889,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Siddhartha Layout,21096,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+Sikar AOR  Rajasthan,934,Rajasthan,176,-720.46,1,0.0,-720.46,0,0
+Siliguri SF Road AOR,20993,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Simmakkal NGS,20802,Tamil Nadu,155,-889.98,1,0.0,-889.98,0,0
+Sindhu Nagar RAJ,20649,Rajasthan,176,-84.76,1,0.0,-84.76,0,0
+Sion  Mumbai,73,Maharashtra,17327,-1568.0600000000002,1,0.0,-1568.0600000000002,0,0
+Siripur-BBSR,21945,Odisha,134,-339.04,1,0.0,-339.04,0,0
+Sivakasi NGS,20978,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Somajiguda OR,20631,Telangana,15136,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Sonipat OR,20687,Haryana,11106,-635.7,1,0.0,-635.7,0,0
+South-EX  Delhi,1,Delhi,111,-1229.02,1,0.0,-1229.02,0,0
+Southbopal OR,20662,Gujrat,171,-211.9,1,0.0,-211.9,0,0
+Southveli NGS,22776,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Spectrum House  Siliguri,74,West Bengal,135,-720.46,1,0.0,-720.46,0,0
+Sr Nagar  Hyderabad,580,Telangana,15136,-805.22,1,0.0,-805.22,0,0
+Srikakulam NGS,20901,AndraPRadesh,151,-42.38,1,0.0,-42.38,0,0
+Srinivasnagar Bangalore,442,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+Stellar IT Park,21468,UP,11109,-42.38,1,0.0,-42.38,0,0
+Store Adilabad NGS,22917,Telangana,15136,-169.52,1,0.0,-169.52,0,0
+Store Bilaspur  Chattisgarh,912,Chattisgarh,17222,-169.52,1,0.0,-169.52,0,0
+Store Hoshiarpur,699,Punjab,115,-423.8,1,0.0,-423.8,0,0
+Store Jabalpur Civil Line,657,Madhya Pradesh,172,-762.84,1,0.0,-762.84,0,0
+Store Jharsuguda,22841,Odisha,134,-211.9,1,0.0,-211.9,0,0
+Store Moga,20893,Punjab,115,0.0,1,0.0,0.0,0,1
+Store Platinum Plaza,20858,Madhya Pradesh,172,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Store palwal,20876,Haryana,11106,-593.32,1,0.0,-593.32,0,0
+Subhash Chowk  Sonipat,380,Haryana,11106,-2754.3200000000006,1,0.0,-2754.3200000000006,0,0
+Suchitra AOR,20757,Telangana,15136,-9703.500000000002,1,0.0,-9703.500000000002,0,0
+Sunder Nagar AOR,20822,HP,11202,-42.38,1,0.0,-42.38,0,0
+Sungam AOR Coimbatore,661,Tamil Nadu,155,-339.04,1,0.0,-339.04,0,0
+Sunkadakatte OR,20583,Karnataka,153,-678.08,1,0.0,-678.08,0,0
+Supertech Eco vill 1,20808,UP,11109,-381.42,1,0.0,-381.42,0,0
+Surat  Gujarat,151,Gujrat,171,-593.32,1,0.0,-593.32,0,0
+T Dasarahalli OR,20587,Karnataka,153,-762.84,1,0.0,-762.84,0,0
+T TELECOM MUM,21563,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+THIRUMAZHISAI MINI,21415,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+THODUPUZHA NGS,20801,Kerala,154,-42.38,1,0.0,-42.38,0,0
+TIRUNELVELI NGS,20911,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+TIRUPATHI 2 OR,20633,AndraPRadesh,151,-847.6,1,0.0,-847.6,0,0
+TNagar AOR  Chennai,551,Tamil Nadu,155,-1017.1200000000001,1,0.0,-1017.1200000000001,0,0
+TRIL IT Park  Chennai,372,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Tagorepark Mini,21199,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Tambaram Mini,21113,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Tanuku AOR,20753,AndraPRadesh,151,-42.38,1,0.0,-42.38,0,0
+Tapsya DDEL,21569,UP,11109,-42.38,1,0.0,-42.38,0,0
+Tarnaka Telangana,829,Telangana,15136,-466.18,1,0.0,-466.18,0,0
+Tavarekere,21378,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Tenali Store,22875,AndraPRadesh,151,-550.94,1,0.0,-550.94,0,0
+Thakurpukur OR,20602,West Bengal,135,-211.9,1,0.0,-211.9,0,0
+Thane  Naupada  Mumbai,37,Maharashtra,17327,-7372.9800000000005,1,0.0,-7372.9800000000005,0,0
+Thane Hiranadani Estate,22847,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Thane Kapur Bawadi,22834,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Thane MK Plaza,20668,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Thane West Vartak Nagar,22849,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Thanisandra Store,21234,Karnataka,153,-466.18,1,0.0,-466.18,0,0
+Thanjavur NGS,20899,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Thennampalayam AOR,20823,Tamil Nadu,155,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Thippasandra Bangalore,202,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Thirumangalam Mini,21348,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Thiruporur MINI,21229,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Thiruvanmiyoor  ECR Chennai,386,Tamil Nadu,155,-466.18,1,0.0,-466.18,0,0
+Thiruvottriyur NGS,22796,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+Thoppumpady AOR,20798,Kerala,154,-593.32,1,0.0,-593.32,0,0
+Thrippunithura NGS,20799,Kerala,154,-42.38,1,0.0,-42.38,0,0
+Thudiyalur NGS,20832,Tamil Nadu,155,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Tilak Nagar  Nagpur,392,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Tilakroad  Pune,15,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Tirunelveli Court NGS,22838,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Tiruppur PN ROAD NGS,20653,Tamil Nadu,155,-423.8,1,0.0,-423.8,0,0
+Tirur NGS Store,22629,Kerala,154,-339.04,1,0.0,-339.04,0,0
+Tobin Road OR,20697,West Bengal,135,-42.38,1,0.0,-42.38,0,0
+Tolichowki  Hyderabad  Telangana,94,Telangana,15136,-889.98,1,0.0,-889.98,0,0
+Tollygunge  Kolkata  WB,206,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Tonk Road  Jaipur,148,Rajasthan,176,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Tri nagar mini,21306,Delhi,111,-169.52,1,0.0,-169.52,0,0
+Trichy AOR,20530,Tamil Nadu,155,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Trichy KK Nagar NGS,21205,Tamil Nadu,155,-169.52,1,0.0,-169.52,0,0
+Trichy NGS,20665,Tamil Nadu,155,-1483.3000000000002,1,0.0,-1483.3000000000002,0,0
+Trimurti Chowk OR,20657,Maharashtra,17327,-169.52,1,0.0,-169.52,0,0
+Triplicane  Chennai,284,Tamil Nadu,155,-1144.26,1,0.0,-1144.26,0,0
+Tumkur  KA,193,Karnataka,153,-805.22,1,0.0,-805.22,0,0
+Tumkur SIT Road Mini,21295,Karnataka,153,-42.38,1,0.0,-42.38,0,0
+Tuticorin NGS,20896,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+ULWE AOR,20955,Maharashtra,24127,-2669.5600000000004,1,0.0,-2669.5600000000004,0,0
+URAPAKKAM OR,20966,Tamil Nadu,155,-762.84,1,0.0,-762.84,0,0
+UTTARPARA MINI,22757,West Bengal,135,-84.76,1,0.0,-84.76,0,0
+Udhana OR,20682,Gujrat,171,-635.7,1,0.0,-635.7,0,0
+Udupi Regular OR,21424,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Ulhasnagar  Thane,427,Maharashtra,17327,-678.08,1,0.0,-678.08,0,0
+Undri store,20555,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Uppal AOR,20855,Telangana,15136,-720.46,1,0.0,-720.46,0,0
+Urfan General Store JK,21512,JK,114,-466.18,1,0.0,-466.18,0,0
+Uth Zone HP,21514,HP,11202,-42.38,1,0.0,-42.38,0,0
+Uttrahali  Bangalore,103,Karnataka,153,-423.8,1,0.0,-423.8,0,0
+VASCO NGS,22816,GOA,17330,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+VIDYA NAGAR HYD,20542,Telangana,15136,-678.08,1,0.0,-678.08,0,0
+VIJAYANAGAR OR1,20568,Karnataka,153,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+VILLIVAKKAM MINI,21414,Tamil Nadu,155,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+VVComplex  Howrah,766,West Bengal,135,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Vaishali JT  Jaipur,49,Rajasthan,176,-550.94,1,0.0,-550.94,0,0
+Valnecia Mangalore,21471,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Valsad OR,20684,Gujrat,171,-169.52,1,0.0,-169.52,0,0
+Vanasthallipuram  Telangana,105,Telangana,15136,-932.36,1,0.0,-932.36,0,0
+Vaniyambadi NGS,22813,Tamil Nadu,155,0.0,1,0.0,0.0,0,1
+Vapi   Gujrat,504,Gujrat,171,-42.38,1,0.0,-42.38,0,0
+Varanasi,21423,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Varthur OR,20590,Karnataka,153,-762.84,1,0.0,-762.84,0,0
+Vasai,508,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Vasant Vihar OR,20648,Delhi,111,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Vashi  Navi Mumbai,521,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Vashi OR,20625,Maharashtra,17327,-2288.1400000000003,1,0.0,-2288.1400000000003,0,0
+Vashi Sec 17  Navi Mumbai,871,Maharashtra,17327,-2500.0400000000004,1,0.0,-2500.0400000000004,0,0
+VashiNGSCOCO,11722,Maharashtra,17327,0.0,1,0.0,0.0,0,1
+Vasundhara Ghaziabad,20705,UP,11109,-211.9,1,0.0,-211.9,0,0
+Vatika  Gurgaon  Haryana,187,Haryana,11106,-5084.84,1,0.0,-5084.84,0,0
+Vatika Town Square sec 82 A  Manesar,599,Haryana,11106,-4957.700000000001,1,0.0,-4957.700000000001,0,0
+Veera Desai  Mumbai,835,Maharashtra,17327,-42.38,1,0.0,-42.38,0,0
+Veerappanchatram Mini,21331,Tamil Nadu,155,-381.42,1,0.0,-381.42,0,0
+Velachery  Chennai,327,Tamil Nadu,155,-1144.26,1,0.0,-1144.26,0,0
+Velachery NGS,20880,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+Vellayambalam OR,20678,Kerala,154,-169.52,1,0.0,-169.52,0,0
+Vellore AOR  Tamil Nadu,689,Tamil Nadu,155,-1271.4,1,0.0,-1271.4,0,0
+Vesu Road  Surat,425,Gujrat,171,-381.42,1,0.0,-381.42,0,0
+Vidhya Rana and Sons HP,21485,HP,11202,0.0,1,0.0,0.0,0,1
+Vidyadhar Nagar  Rajasthan,199,Rajasthan,176,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Vidyaranyapura  Bangalore,136,Karnataka,153,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Vidyaranyapura 2,21015,Karnataka,153,-84.76,1,0.0,-84.76,0,0
+Vignan Nagar  Bangalore,121,Karnataka,153,-381.42,1,0.0,-381.42,0,0
+Vijaynagar OR,21950,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Vijaywada  Seemandhra,160,AndraPRadesh,151,-678.08,1,0.0,-678.08,0,0
+Vikas Marg  Delhi,186,Delhi,111,-762.84,1,0.0,-762.84,0,0
+Vikas Puri  Delhi,468,Delhi,111,-762.84,1,0.0,-762.84,0,0
+Vikrampuri AOR  Hyderabad,909,Telangana,24136,-4788.18,1,0.0,-4788.18,0,0
+Vile Parle  Mumbai,77,Maharashtra,17327,-296.66,1,0.0,-296.66,0,0
+Vile Parle West NGS,22902,Maharashtra,17327,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Villupuram AOR,20888,Tamil Nadu,155,-42.38,1,0.0,-42.38,0,0
+Vinobhnagara Shivamogga,21226,Karnataka,153,-211.9,1,0.0,-211.9,0,0
+Virar East,20807,Maharashtra,17327,-381.42,1,0.0,-381.42,0,0
+Vishnu Garden Mini Aor,21038,Delhi,111,-423.8,1,0.0,-423.8,0,0
+Vivekananda Nagar OR,20614,Telangana,15136,-211.9,1,0.0,-211.9,0,0
+Vizianagaram OR,20717,Telangana,15136,-550.94,1,0.0,-550.94,0,0
+WARJE NGS,22881,Maharashtra,17327,-211.9,1,0.0,-211.9,0,0
+Wagholi OR,20608,Maharashtra,17327,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Wakad Store,20660,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+Wanowrie  Pune  MH,198,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Warangal  Hyderabad,210,Telangana,15136,-762.84,1,0.0,-762.84,0,0
+Wardha Store,20962,Maharashtra,17327,-466.18,1,0.0,-466.18,0,0
+West Maredpally Aor,20856,Telangana,15136,-254.28000000000003,1,0.0,-254.28000000000003,0,0
+Whitefield EPIP Zone Bangalore,596,Karnataka,153,-2796.7000000000003,1,0.0,-2796.7000000000003,0,0
+Whitefield NGS,22788,Karnataka,153,-127.14000000000001,1,0.0,-127.14000000000001,0,0
+Wilson Garden OR,20565,Karnataka,153,-550.94,1,0.0,-550.94,0,0
+Worli MUM,20870,Maharashtra,17327,-84.76,1,0.0,-84.76,0,0
+Yelahanka  Bangalore,157,Karnataka,153,-1101.88,1,0.0,-1101.88,0,0
+Zirakpur  Chandigarh,759,Punjab,115,-678.08,1,0.0,-678.08,0,0
+Zoo Road  Guwahati,196,Assam,131,-339.04,1,0.0,-339.04,0,0
+aor store Rewari,21601,Haryana,11106,-423.8,1,0.0,-423.8,0,0
+goregaon east aor,20765,Maharashtra,17327,-508.56000000000006,1,0.0,-508.56000000000006,0,0
+jogeshwari NGS,20766,Maharashtra,17327,-339.04,1,0.0,-339.04,0,0
+korattur Mini,21089,Tamil Nadu,155,-211.9,1,0.0,-211.9,0,0
+kurmannapalem or store,20715,AndraPRadesh,151,-678.08,1,0.0,-678.08,0,0
+mini store sanoli road panipat,21888,Haryana,11106,-42.38,1,0.0,-42.38,0,0
